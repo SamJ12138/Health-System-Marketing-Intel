@@ -1,0 +1,447 @@
+{
+  "id": "advocate-health",
+  "name": "Advocate Health",
+  "asOf": "2026-11-10",
+  "positioning": {
+    "text": "Advocate Health describes itself as the third-largest nonprofit, integrated health system in the United States, with a footprint across eight states under the Advocate Health Care, Atrium Health and Aurora Health Care brands, and says it is redefining how, when and where care is delivered.",
+    "quote": "Advocate Health is redefining how, when and where care is delivered to help people live well.",
+    "evidence": [
+      {
+        "url": "https://www.advocatehealth.org/about",
+        "title": "About Advocate Health",
+        "publisher": "Advocate Health",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "Advocate Health is redefining how, when and where care is delivered to help people live well."
+      },
+      {
+        "url": "https://www.advocatehealth.org/news/advocate-health-advances-healthier-communities-through-$6-point-27-billion-community-benefit-investment",
+        "title": "Advocate Health Advances Healthier Communities Through $6.27B Community Benefit Investment",
+        "publisher": "Advocate Health",
+        "published": "2026-07-14",
+        "accessed": "2026-11-10",
+        "quote": "the third-largest nonprofit, integrated health system in the United States."
+      },
+      {
+        "url": "https://www.advocatehealth.org/",
+        "title": "Advocate Health (homepage)",
+        "publisher": "Advocate Health",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "Advocate Health Care, Atrium Health and Aurora Health Care have come together"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "campaign",
+      "text": "When the Advocate Aurora Health and Atrium Health combination closed on 2022-12-02, the release said the existing brands would continue to be used locally: Advocate Health Care in Illinois, Atrium Health in the Carolinas, Georgia and Alabama, and Aurora Health Care in Wisconsin.",
+      "evidence": [
+        {
+          "url": "https://newsroom.wakehealth.edu/news-releases/2022/12/advocate-aurora-health-and-atrium-health-complete-combination",
+          "title": "Advocate Aurora Health and Atrium Health Complete Combination",
+          "publisher": "Atrium Health Wake Forest Baptist newsroom",
+          "published": "2022-12-02",
+          "accessed": "2026-11-10",
+          "quote": "brands will continue to be used in their respective local communities"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "campaign",
+      "text": "Advocate Health's published brand guidelines are labelled interim, keep the three care delivery brands in use with the linkage line \"Now part of Advocate Health\", and state that the Advocate Aurora Health logo has been discontinued.",
+      "evidence": [
+        {
+          "url": "https://advocatehealth.org/brand-guidelines",
+          "title": "Advocate Health interim brand guidelines",
+          "publisher": "Advocate Health",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "These guidelines are interim and will continue to be updated."
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "program",
+      "text": "Advocate Health announced Kevan Mabbutt, previously at Intermountain Health, as chief marketing, communications and consumer experience officer on 2023-09-27, and Nicole Phillips, previously chief marketing officer for CVS Caremark, as chief marketing, brand and consumer officer on 2025-12-19.",
+      "evidence": [
+        {
+          "url": "https://advocatehealth.org/news/advocate-health-selects-new-chief-marketing-communications-and-consumer-experience-officer",
+          "title": "Advocate Health selects new Chief Marketing, Communications and Consumer Experience Officer",
+          "publisher": "Advocate Health",
+          "published": "2023-09-27",
+          "accessed": "2026-11-10",
+          "quote": "executive vice president and chief marketing, communications and consumer experience officer"
+        },
+        {
+          "url": "https://advocatehealth.org/news/advocate-health-names-new-chief-marketing-brand-and-consumer-experience-officer",
+          "title": "Advocate Health Names New Chief Marketing, Brand and Consumer Experience Officer",
+          "publisher": "Advocate Health",
+          "published": "2025-12-19",
+          "accessed": "2026-11-10",
+          "quote": "senior vice president and the new chief marketing, brand and consumer officer"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "content",
+      "text": "Consumer health content is published on two separate hubs: health enews, which calls itself the Midwest's go-to source for health news and links to advocatehealth.org, and Daily Dose on atriumhealth.org.",
+      "evidence": [
+        {
+          "url": "https://www.ahchealthenews.com/",
+          "title": "health enews",
+          "publisher": "health enews (Advocate Health)",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "health enews is the Midwest’s go-to source for timely and credible health news and information delivered daily to your inbox"
+        },
+        {
+          "url": "https://atriumhealth.org/dailydose",
+          "title": "Daily Dose - Home",
+          "publisher": "Atrium Health",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Your source for health-related news, information and inspiring stories."
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "program",
+      "text": "Patient apps differ by region: LiveWell is the app and website for Advocate Health Care and Aurora Health Care patients, while Atrium Health directs patients to the MyAtriumHealth app.",
+      "evidence": [
+        {
+          "url": "https://www.advocatehealth.org/livewell/faq",
+          "title": "LiveWell frequently asked questions",
+          "publisher": "Advocate Health",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "The LiveWell app and website make it easier than ever to manage your health."
+        },
+        {
+          "url": "https://atriumhealth.org/connect-with-us",
+          "title": "Connect With Us",
+          "publisher": "Atrium Health",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "category": "channel",
+      "text": "The advocatehealth.org enterprise site links to three social accounts (Facebook, LinkedIn and YouTube), while Atrium Health's Connect With Us page lists its own Facebook, Twitter, Instagram, YouTube and LinkedIn accounts plus separate accounts for Levine Children's and Levine Cancer Institute.",
+      "evidence": [
+        {
+          "url": "https://www.advocatehealth.org/",
+          "title": "Advocate Health (homepage)",
+          "publisher": "Advocate Health",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://atriumhealth.org/connect-with-us",
+          "title": "Connect With Us",
+          "publisher": "Atrium Health",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "category": "program",
+      "text": "Becker's reported on 2026-10-15 that Atrium Health has been the Carolina Panthers' official healthcare provider since 1995 with its logo on practice uniforms, that the Panthers announced naming rights for the Atrium Health Training Facility in April 2026, and that Advocate Health Care became the Chicago Bears' official healthcare partner in 2017.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/34-health-systems-partnering-with-nfl-teams/",
+          "title": "34 health systems partnering with NFL teams",
+          "publisher": "Becker's Hospital Review",
+          "published": "2026-10-15",
+          "accessed": "2026-11-10",
+          "quote": "Atrium Health has been the Panthers' official healthcare provider since 1995,"
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "category": "program",
+      "text": "Advocate Health publicizes its AI work: a 2025-07-16 release on deploying Aidoc imaging algorithms projected nearly 63,000 patients a year would benefit, and in October 2025 CEO Eugene Woods wrote that the system has embraced AI as a strategic imperative.",
+      "evidence": [
+        {
+          "url": "https://www.advocatehealth.org/news/advocate-health-deploys-ai-solution-to-redefine-diagnostic-excellence-through-agreement-with-aidoc",
+          "title": "Advocate Health Deploys AI Solution to Redefine Diagnostic Excellence through Agreement with Aidoc",
+          "publisher": "Advocate Health",
+          "published": "2025-07-16",
+          "accessed": "2026-11-10",
+          "quote": "projects nearly 63,000 patients each year will benefit from faster prioritization and earlier diagnoses."
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/advocate-health-ceo-weve-embraced-ai-not-as-a-hyped-up-trend",
+          "title": "Advocate Health CEO: 'We've embraced AI not as a hyped-up trend'",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-10-14",
+          "accessed": "2026-11-10",
+          "quote": "We've embraced AI not as a hyped-up trend but as a strategic imperative,"
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "category": "metric",
+      "text": "Advocate Health reported on 2026-07-14 that it invested $6.27 billion in community benefit in 2025.",
+      "evidence": [
+        {
+          "url": "https://www.advocatehealth.org/news/advocate-health-advances-healthier-communities-through-$6-point-27-billion-community-benefit-investment",
+          "title": "Advocate Health Advances Healthier Communities Through $6.27B Community Benefit Investment",
+          "publisher": "Advocate Health",
+          "published": "2026-07-14",
+          "accessed": "2026-11-10",
+          "quote": "Advocate Health invested $6.27 billion in community benefit in 2025 — more than $17 million each day"
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "category": "content",
+      "text": "The \"redefining care\" line recurs across Advocate Health properties: the 2025 Year in Review microsite is headlined \"REDEFINING CARE\", the careers site is headlined \"Redefine care.\", and the stated purpose reads \"we're redefining care – for you, for us, for all.\"",
+      "evidence": [
+        {
+          "url": "https://2025yir.advocatehealth.org/",
+          "title": "Advocate Health 2025 Year in Review",
+          "publisher": "Advocate Health",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "REDEFINING CARE"
+        },
+        {
+          "url": "https://careers.advocatehealth.org/",
+          "title": "Advocate Health Careers",
+          "publisher": "Advocate Health",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Redefine care."
+        },
+        {
+          "url": "https://teammates.atriumhealth.org/teammate-life/advocate-health-purpose-and-commitments",
+          "title": "Advocate Health Purpose and Commitments",
+          "publisher": "Atrium Health",
+          "published": "2026-04-23",
+          "accessed": "2026-11-10",
+          "quote": "From discovery to everyday moments, we're redefining care – for you, for us, for all."
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "Newsroom",
+      "url": "https://www.advocatehealth.org/news",
+      "note": "Enterprise news; also links to a Thought leadership section.",
+      "evidence": [
+        {
+          "url": "https://www.advocatehealth.org/news",
+          "title": "News",
+          "publisher": "Advocate Health",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Thought leadership",
+      "url": "https://www.advocatehealth.org/thought-leadership",
+      "note": "Feature articles on topics such as rural health, veterans care, quality and virtual care.",
+      "evidence": [
+        {
+          "url": "https://www.advocatehealth.org/thought-leadership",
+          "title": "Thought Leadership | Advocate Health",
+          "publisher": "Advocate Health",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "health enews (Midwest content hub)",
+      "url": "https://www.ahchealthenews.com/",
+      "note": "Health news site with an email newsletter sign-up.",
+      "evidence": [
+        {
+          "url": "https://www.ahchealthenews.com/",
+          "title": "health enews",
+          "publisher": "health enews (Advocate Health)",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Daily Dose (Atrium Health content hub)",
+      "url": "https://atriumhealth.org/dailydose",
+      "note": "Health news, information and patient stories.",
+      "evidence": [
+        {
+          "url": "https://atriumhealth.org/dailydose",
+          "title": "Daily Dose - Home",
+          "publisher": "Atrium Health",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "LiveWell (app and portal, Advocate Health Care and Aurora Health Care)",
+      "url": "https://www.advocatehealth.org/livewell/faq",
+      "note": "No user count is published on the page.",
+      "evidence": [
+        {
+          "url": "https://www.advocatehealth.org/livewell/faq",
+          "title": "LiveWell frequently asked questions",
+          "publisher": "Advocate Health",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "YouTube (enterprise)",
+      "url": "https://www.youtube.com/channel/UCZivqUEoLLgY5Tk1xnsX36A",
+      "note": "Channel name Advocate Health, handle @advocatehealthsystem. Subscriber count was not visible in the fetched page.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/channel/UCZivqUEoLLgY5Tk1xnsX36A",
+          "title": "Advocate Health - YouTube",
+          "publisher": "YouTube",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "At Advocate Health, we believe there is a better way to deliver care."
+        }
+      ]
+    },
+    {
+      "name": "Facebook (enterprise)",
+      "url": "https://www.facebook.com/AdvocateHealth",
+      "note": "Linked from advocatehealth.org; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.advocatehealth.org/",
+          "title": "Advocate Health (homepage)",
+          "publisher": "Advocate Health",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn (enterprise)",
+      "url": "https://www.linkedin.com/company/advocate-health/",
+      "note": "Linked from advocatehealth.org; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.advocatehealth.org/",
+          "title": "Advocate Health (homepage)",
+          "publisher": "Advocate Health",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Instagram (Atrium Health)",
+      "url": "https://www.instagram.com/atriumhealth/",
+      "note": "Regional brand account listed on Atrium Health's Connect With Us page; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://atriumhealth.org/connect-with-us",
+          "title": "Connect With Us",
+          "publisher": "Atrium Health",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "Keeping established regional brands while adding an enterprise linkage line lets the system hold local name recognition as it builds the Advocate Health name.",
+        "basedOn": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "text": "One message line, \"redefining care\", is repeated across the annual review, the careers site and the purpose statement.",
+        "basedOn": [
+          "f10"
+        ]
+      },
+      {
+        "text": "Long-running NFL team relationships in Charlotte and Chicago give the regional brands recurring visibility.",
+        "basedOn": [
+          "f7"
+        ]
+      },
+      {
+        "text": "AI deployments are announced with concrete numbers and CEO-level commentary, which supports an innovation story alongside the community benefit story.",
+        "basedOn": [
+          "f8",
+          "f9"
+        ]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "The published brand guidelines are still labelled interim.",
+        "basedOn": [
+          "f2"
+        ]
+      },
+      {
+        "text": "Patients use different apps depending on region (LiveWell in the Midwest brands, MyAtriumHealth for Atrium Health), so there is no single app to market system-wide.",
+        "basedOn": [
+          "f5"
+        ]
+      },
+      {
+        "text": "The enterprise site links to three social accounts only; consumer accounts such as Instagram sit with the regional brands.",
+        "basedOn": [
+          "f6"
+        ]
+      }
+    ],
+    "opportunitiesForUpmc": [
+      {
+        "text": "A peer whose patient apps and content hubs are split by region is a useful comparison point for how UPMC presents its own portal and health content across markets.",
+        "basedOn": [
+          "f4",
+          "f5"
+        ]
+      },
+      {
+        "text": "Advocate Health attaches numbers to its AI announcements; UPMC can check that its own AI messaging carries comparable specifics.",
+        "basedOn": [
+          "f8"
+        ]
+      },
+      {
+        "text": "A single repeated line across recruitment, annual reporting and purpose is a consistency benchmark for UPMC's own message architecture.",
+        "basedOn": [
+          "f10"
+        ]
+      },
+      {
+        "text": "The brand guidelines are labelled interim and a new marketing chief was announced in December 2025, so UPMC should re-check this peer's brand architecture periodically instead of treating this snapshot as settled.",
+        "basedOn": [
+          "f2",
+          "f3"
+        ]
+      }
+    ]
+  }
+}

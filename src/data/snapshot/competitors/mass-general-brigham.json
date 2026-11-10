@@ -1,0 +1,428 @@
+{
+  "id": "mass-general-brigham",
+  "name": "Mass General Brigham",
+  "asOf": "2026-11-10",
+  "positioning": {
+    "text": "Mass General Brigham describes itself as an integrated academic health care system that unites great minds to solve the hardest problems in medicine; its founding members and three specialty hospitals are Harvard Medical School teaching hospitals, and its homepage leads with \"One system. World-class care.\"",
+    "quote": "an integrated academic health care system, uniting great minds to solve the hardest problems in medicine",
+    "evidence": [
+      {
+        "url": "https://news.massgeneralbrigham.org/en/cancer-institute-sept-2025",
+        "title": "Mass General Brigham Cancer Institute Accelerates Bold Vision for Patient-Centered Cancer Care",
+        "publisher": "Mass General Brigham",
+        "published": "2025-09-12",
+        "accessed": "2026-11-10",
+        "quote": "an integrated academic health care system, uniting great minds to solve the hardest problems in medicine"
+      },
+      {
+        "url": "https://www.massgeneralbrigham.org/en/about",
+        "title": "About Mass General Brigham",
+        "publisher": "Mass General Brigham",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "are Harvard Medical School teaching hospitals"
+      },
+      {
+        "url": "https://www.massgeneralbrigham.org/",
+        "title": "Mass General Brigham (homepage)",
+        "publisher": "Mass General Brigham",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "One system. World-class care."
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "campaign",
+      "text": "On 2019-11-27 Partners HealthCare announced a five-year strategic plan and the renaming of the system to Mass General Brigham; the agency Lippincott states it developed the new name, brand platform, visual system and architecture.",
+      "evidence": [
+        {
+          "url": "https://news.massgeneralbrigham.org/en/partners-healthcare-announces-five-year-strategic-plan-and-launch-system",
+          "title": "Partners HealthCare Announces Five-year Strategic Plan and Launch of System Rebranding",
+          "publisher": "Mass General Brigham",
+          "published": "2019-11-27",
+          "accessed": "2026-11-10",
+          "quote": "Partners will begin the work to transition to Mass General Brigham."
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/strategy/partners-rebrands-to-mass-general-brigham",
+          "title": "Partners rebrands to Mass General Brigham",
+          "publisher": "Becker's Hospital Review",
+          "published": "2019-11-27",
+          "accessed": "2026-11-10",
+          "quote": "For the first time in 25 years, Boston-based Partners HealthCare will have a new name: Mass General Brigham."
+        },
+        {
+          "url": "https://lippincott.com/work/mass-general-brigham",
+          "title": "Mass General Brigham (case study)",
+          "publisher": "Lippincott",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "We would create a new name, brand platform, visual system, architecture, and patient experience vision."
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "content",
+      "text": "The Mass General Brigham website has a Health and Wellness article hub organized into eight topic categories, and a separate news site at news.massgeneralbrigham.org for articles, insights and press releases.",
+      "evidence": [
+        {
+          "url": "https://www.massgeneralbrigham.org/en/search/health-wellness",
+          "title": "Health and Wellness",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://news.massgeneralbrigham.org/",
+          "title": "Mass General Brigham News",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "articles, insights, and press releases"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "campaign",
+      "text": "In June 2025 the system's pediatric arm, formerly Mass General for Children, was renamed Mass General Brigham for Children.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/mass-general-for-children-rebrands",
+          "title": "Mass General for Children rebrands",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-06-19",
+          "accessed": "2026-11-10",
+          "quote": "The transition to Mass General Brigham for Children strengthens our identity, honors the progress we have made."
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "campaign",
+      "text": "On 2025-09-12 Mass General Brigham said it had launched the next phase of its public campaign for cancer care and begun retiring the Mass General Cancer Center brand in favor of the Mass General Brigham Cancer Institute name, with Brigham locations to follow; a September 2024 release had announced that a public-facing cancer campaign would begin that month.",
+      "evidence": [
+        {
+          "url": "https://news.massgeneralbrigham.org/en/cancer-institute-sept-2025",
+          "title": "Mass General Brigham Cancer Institute Accelerates Bold Vision for Patient-Centered Cancer Care",
+          "publisher": "Mass General Brigham",
+          "published": "2025-09-12",
+          "accessed": "2026-11-10",
+          "quote": "This week, the system launched the next phase of its public campaign and began to embrace a single identity,"
+        },
+        {
+          "url": "https://news.massgeneralbrigham.org/en/mass-general-brigham-releases-vision-for-integrated-patient-centered-cancer-care",
+          "title": "Mass General Brigham Releases Vision for Integrated, Patient-Centered Cancer Care",
+          "publisher": "Mass General Brigham",
+          "published": "2024-09-09",
+          "accessed": "2026-11-10",
+          "quote": "A public-facing campaign to highlight our vision for cancer care, research, and education will begin in September."
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "content",
+      "text": "On 2021-07-19 Mass General Brigham announced a partnership with YouTube to give patients easier access to credible medical information from its experts, with a stated goal of producing multiple videos per week for the platform.",
+      "evidence": [
+        {
+          "url": "https://news.massgeneralbrigham.org/en/mass-general-brigham-partners-youtube-increase-access-trusted-medical",
+          "title": "Mass General Brigham Partners with YouTube to Increase Access to Trusted Medical Experts",
+          "publisher": "Mass General Brigham",
+          "published": "2021-07-19",
+          "accessed": "2026-11-10",
+          "quote": "The goal is to produce multiple videos per week for the platform."
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "category": "program",
+      "text": "A Mass General Brigham release, dated 2021-12-20 in the page's metadata, announced that the system would serve as the official sports medicine sponsor of the New England Patriots, New England Revolution and Gillette Stadium; Becker's October 2026 list of NFL partnerships still names it as the official sports medicine sponsor of the Patriots and Gillette Stadium and describes the agreement as announced in 2022.",
+      "evidence": [
+        {
+          "url": "https://news.massgeneralbrigham.org/en/mass-general-brigham-announces-new-partnership-new-england-patriots-and-new",
+          "title": "Mass General Brigham Announces New Partnership with New England Patriots and New England Revolution",
+          "publisher": "Mass General Brigham",
+          "published": "2021-12-20",
+          "accessed": "2026-11-10",
+          "quote": "will now serve as the official sports medicine sponsor of the New England Patriots, New England Revolution"
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/34-health-systems-partnering-with-nfl-teams/",
+          "title": "34 health systems partnering with NFL teams",
+          "publisher": "Becker's Hospital Review",
+          "published": "2026-10-15",
+          "accessed": "2026-11-10",
+          "quote": "New England Patriots. The system is the official sports medicine sponsor of the Patriots and Gillette Stadium"
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "category": "campaign",
+      "text": "Becker's reported on 2022-03-03 that Mass General Brigham ran ads in newspapers, on TV and on the internet in support of its proposed $2.3 billion expansion, and that the ads drew criticism from competing health systems.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/mass-general-brigham-faces-backlash-over-ad-campaign-for-2-3b-expansion.html",
+          "title": "Mass General Brigham faces backlash over ad campaign for $2.3B expansion",
+          "publisher": "Becker's Hospital Review",
+          "published": "2022-03-03",
+          "accessed": "2026-11-10",
+          "quote": "The ads have been featured in newspapers, TV and the internet and are estimated to cost millions of dollars."
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "category": "program",
+      "text": "Mass General Brigham Patient Gateway is the system's patient portal, available as an iOS and Android app, for scheduling appointments, virtual visits, prescription renewals, test results and bill payment.",
+      "evidence": [
+        {
+          "url": "https://www.massgeneralbrigham.org/en/patient-care/patient-visitor-information/patient-gateway",
+          "title": "Mass General Brigham Patient Gateway",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Schedule appointments, participate in virtual visits, renew prescriptions, and more through our secure electronic portal."
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "category": "program",
+      "text": "On 2022-10-31 Mass General Brigham announced it had implemented DexCare's platform for an end-to-end digital consumer experience.",
+      "evidence": [
+        {
+          "url": "https://news.massgeneralbrigham.org/en/mass-general-brigham-implements-dexcare-to-support-care-integration-and-advance-digital-health",
+          "title": "Mass General Brigham Implements DexCare to Support Care Integration and Advance Digital Health",
+          "publisher": "Mass General Brigham",
+          "published": "2022-10-31",
+          "accessed": "2026-11-10",
+          "quote": "Mass General Brigham has implemented DexCare's Platform-as-a-Service (PaaS) for an end-to-end digital consumer experience"
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "category": "channel",
+      "text": "The Mass General Brigham site footer links to Facebook, X, Instagram, LinkedIn and YouTube; no TikTok link was present in the footer when it was opened on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://www.massgeneralbrigham.org/en/global/footer",
+          "title": "Mass General Brigham site footer",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "News site",
+      "url": "https://news.massgeneralbrigham.org/",
+      "note": "Articles, insights and press releases.",
+      "evidence": [
+        {
+          "url": "https://news.massgeneralbrigham.org/",
+          "title": "Mass General Brigham News",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Health and Wellness articles",
+      "url": "https://www.massgeneralbrigham.org/en/search/health-wellness",
+      "note": "Consumer health articles from the system's experts.",
+      "evidence": [
+        {
+          "url": "https://www.massgeneralbrigham.org/en/search/health-wellness",
+          "title": "Health and Wellness",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Patient Gateway (portal and app)",
+      "url": "https://www.massgeneralbrigham.org/en/patient-care/patient-visitor-information/patient-gateway",
+      "note": "No user count is published on the page.",
+      "evidence": [
+        {
+          "url": "https://www.massgeneralbrigham.org/en/patient-care/patient-visitor-information/patient-gateway",
+          "title": "Mass General Brigham Patient Gateway",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Mass General Brigham Podcast",
+      "url": "https://cpdlearn.massgeneralbrigham.org/podcast/",
+      "note": "Produced by the Office of Continuing Professional Development; seven episodes were listed on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://cpdlearn.massgeneralbrigham.org/podcast/",
+          "title": "Mass General Brigham Podcast",
+          "publisher": "Mass General Brigham Office of Continuing Professional Development",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "This podcast series features Mass General Brigham staff whose work is redefining what's possible"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/massgeneralbrigham",
+      "note": "Channel name Mass General Brigham. Subscriber count was not visible in the fetched page.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/massgeneralbrigham",
+          "title": "Mass General Brigham - YouTube",
+          "publisher": "YouTube",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.massgeneralbrigham.org/en/global/footer",
+          "title": "Mass General Brigham site footer",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/massgeneralbrigham/",
+      "note": "Linked from the site footer; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.massgeneralbrigham.org/en/global/footer",
+          "title": "Mass General Brigham site footer",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/MassGeneralBrigham",
+      "note": "Linked from the site footer; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.massgeneralbrigham.org/en/global/footer",
+          "title": "Mass General Brigham site footer",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/MassGenBrigham",
+      "note": "Linked from the site footer; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.massgeneralbrigham.org/en/global/footer",
+          "title": "Mass General Brigham site footer",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/mass-general-brigham",
+      "note": "Linked from the site footer; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.massgeneralbrigham.org/en/global/footer",
+          "title": "Mass General Brigham site footer",
+          "publisher": "Mass General Brigham",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "The system name is being extended step by step to major service lines, from the 2019 system rename to the 2025 pediatric and cancer names, which moves the portfolio toward one brand.",
+        "basedOn": [
+          "f1",
+          "f3",
+          "f4"
+        ]
+      },
+      {
+        "text": "A platform-level partnership with YouTube gives its clinical experts a structured video outlet with a stated publishing cadence.",
+        "basedOn": [
+          "f5"
+        ]
+      },
+      {
+        "text": "The Patriots, Revolution and Gillette Stadium sponsorship gives the system brand a regional visibility platform beyond its hospitals.",
+        "basedOn": [
+          "f6"
+        ]
+      },
+      {
+        "text": "One portal and app, plus a consumer platform investment, give the system a single digital entry point to market.",
+        "basedOn": [
+          "f8",
+          "f9"
+        ]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "The site footer lists five social platforms and no TikTok link as of 2026-11-10; this describes the footer only and does not establish whether an account exists.",
+        "basedOn": [
+          "f10"
+        ]
+      }
+    ],
+    "opportunitiesForUpmc": [
+      {
+        "text": "The sequence of sub-brand changes (system, then pediatrics, then cancer) is a public reference case UPMC can study when it plans naming changes for its own service lines.",
+        "basedOn": [
+          "f1",
+          "f3",
+          "f4"
+        ]
+      },
+      {
+        "text": "UPMC can benchmark the cadence and format of its expert video against a peer that has a formal YouTube partnership.",
+        "basedOn": [
+          "f5"
+        ]
+      },
+      {
+        "text": "Short-form video is a channel where UPMC could compare its presence with a peer whose footer does not list TikTok.",
+        "basedOn": [
+          "f10"
+        ]
+      },
+      {
+        "text": "Trade press reported that this peer's advertising for an expansion plan drew criticism from competing systems; UPMC can plan stakeholder messaging early when it advertises its own capital projects.",
+        "basedOn": [
+          "f7"
+        ]
+      }
+    ]
+  }
+}

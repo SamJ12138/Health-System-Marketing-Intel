@@ -1,0 +1,376 @@
+{
+  "id": "penn-medicine",
+  "name": "Penn Medicine",
+  "asOf": "2026-11-10",
+  "positioning": {
+    "text": "Penn Medicine states its mission as advancing knowledge and improving health through patient care, research and the education of trainees, and its About page cites the nation's first hospital (chartered 1751) and first medical school (founded 1765) as part of the system.",
+    "quote": "Penn Medicine is an $11.9 billion enterprise powered by nearly 49,000 talented faculty and staff.",
+    "evidence": [
+      {
+        "url": "https://www.pennmedicine.org/about",
+        "title": "About Penn Medicine",
+        "publisher": "Penn Medicine",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "Penn Medicine is an $11.9 billion enterprise powered by nearly 49,000 talented faculty and staff."
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "program",
+      "text": "On May 7, 2025 Penn Medicine announced a new PennMedicine.org that combined four separate health system websites into one, with revised doctor search and online appointment scheduling.",
+      "evidence": [
+        {
+          "url": "https://www.pennmedicine.org/news/new-website-experience",
+          "title": "Welcome to the new PennMedicine.org!",
+          "publisher": "Penn Medicine",
+          "published": "2025-05-07",
+          "accessed": "2026-11-10",
+          "quote": "We combined four separate health system websites into one better one."
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "campaign",
+      "text": "shots reported on July 2, 2026 that Penn Medicine's brand campaign \"First Then, First Now\", created by Yard NYC, was running across broadcast, digital, out-of-home, print, search and audio, locally and in key national markets through August; Penn Medicine's own \"legacy of firsts\" page uses the line \"First then. First now.\"",
+      "evidence": [
+        {
+          "url": "https://shots.net/news/view/penn-medicine-is-first-then-first-now",
+          "title": "Penn Medicine is first then, first now",
+          "publisher": "shots",
+          "published": "2026-07-02",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.pennmedicine.org/about/pioneering-the-future-of-medicine/firsts",
+          "title": "Penn Medicine's legacy of firsts",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Penn Medicine has been making medical history since 1751."
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "content",
+      "text": "Penn Medicine's CAR T cell therapy treatment page describes the therapy as invented and pioneered at Penn Medicine and says the work led to the first FDA-approved CAR T cell treatment in 2017.",
+      "evidence": [
+        {
+          "url": "https://www.pennmedicine.org/treatments/car-t-cell-therapy",
+          "title": "CAR T cell therapy",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "CAR T cell therapy was pioneered right here at Penn Medicine."
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "channel",
+      "text": "Penn Medicine's web standards site lists Facebook, Threads, Instagram, X, LinkedIn and YouTube as its supported social platforms (TikTok is not listed), while a separate social media directory page on pennmedicine.org still listed Google+ and Pinterest when opened on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://web-standards.pennmedicine.org/content-guidelines/social-media",
+          "title": "Social media",
+          "publisher": "Penn Medicine Web Standards",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Current social platforms supported include Facebook, Threads, Instagram, X, LinkedIn and YouTube."
+        },
+        {
+          "url": "https://pennmedicine.org/updates/social-media",
+          "title": "[Penn Medicine social media directory page; page title not captured]",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "content",
+      "text": "Penn Medicine's physician hub promotes three podcasts aimed at clinicians and researchers: Penn Medicine Physician Interviews, the Penn Primary Care Podcast and CureTalks@Penn.",
+      "evidence": [
+        {
+          "url": "https://www.pennmedicine.org/physicians-hub/podcast-series",
+          "title": "Subscribe to Penn Medicine Physician Podcasts",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "category": "program",
+      "text": "Doylestown Health joined the University of Pennsylvania Health System on April 1, 2025 as the seventh Penn Medicine hospital and was renamed Penn Medicine Doylestown Health; the About page, as opened on 2026-11-10, names six hospitals in its facilities sentence and does not mention Doylestown.",
+      "evidence": [
+        {
+          "url": "https://www.pennmedicine.org/news/doylestown-health-joins-university-of-pennsylvania-health-system",
+          "title": "Doylestown Health joins University of Pennsylvania Health System",
+          "publisher": "Penn Medicine",
+          "published": "2025-04-01",
+          "accessed": "2026-11-10",
+          "quote": "Doylestown Health and its affiliates will now be known as Penn Medicine Doylestown Health (PMDH)."
+        },
+        {
+          "url": "https://www.pennmedicine.org/about",
+          "title": "About Penn Medicine",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Penn Medicine is an $11.9 billion enterprise powered by nearly 49,000 talented faculty and staff."
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "category": "content",
+      "text": "As opened on 2026-11-10, the pennmedicine.org home page leads with the headline \"World-class care, right where you live\" and a line about locations across Pennsylvania and New Jersey.",
+      "evidence": [
+        {
+          "url": "https://www.pennmedicine.org/",
+          "title": "[pennmedicine.org home page; page title not captured]",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "With locations across PA and NJ, Penn Medicine delivers advanced care with a personal touch, right in your neighborhood."
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "category": "campaign",
+      "text": "Two vendors describe performance marketing work with Penn Medicine: a Fathom case study says it adopted a performance-first digital strategy for cancer care and orthopedics, and a July 2026 IQVIA post describes an Abramson Cancer Center breast cancer campaign built on a patient story across search, display, paid social and video, for which IQVIA reports 16–22% growth in breast cancer surgical volumes.",
+      "evidence": [
+        {
+          "url": "https://www.fathomdelivers.com/case-studies/maximizing-results-performance-first-patient-marketing-penn-medicine",
+          "title": "Maximizing Results with Performance-First Patient Marketing with Penn Medicine",
+          "publisher": "Fathom",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "adopted a performance-first digital marketing strategy in partnership with Fathom."
+        },
+        {
+          "url": "https://www.iqvia.com/locations/united-states/blogs/2026/07/growing-breast-cancer-surgical-volume-through-patient-stories-and-performance-marketing",
+          "title": "Growing Breast Cancer Surgical Volume Through Patient Stories and Performance Marketing",
+          "publisher": "IQVIA",
+          "published": "2026-07-28",
+          "accessed": "2026-11-10",
+          "quote": "16–22% growth in breast cancer surgical volumes"
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "category": "content",
+      "text": "The Penn Medicine News Blog presents biomedical discoveries, health care innovations and expert perspectives and states that it is written and produced by Penn Medicine's Department of Communications.",
+      "evidence": [
+        {
+          "url": "https://www.pennmedicine.org/news/news-blog",
+          "title": "[Penn Medicine News Blog listing; page title not captured]",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Discover groundbreaking biomedical discoveries, pioneering health care innovations, and expert perspectives from Penn Medicine."
+        },
+        {
+          "url": "https://pennmedicine.org/news/news-blog",
+          "title": "About this Blog (Penn Medicine News Blog)",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "This blog is written and produced by Penn Medicine’s Department of Communications."
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "category": "program",
+      "text": "Becker's reported on July 30, 2025 that Tanya Andreadis, Penn Medicine's chief marketing and engagement officer from 2021 to 2025, had moved to the University of Miami and that Aaron Johnson was serving as interim chief marketing officer.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/hospital-executive-moves/penn-medicine-marketing-chief-departs-for-university-of-miami",
+          "title": "Penn Medicine marketing chief departs for University of Miami",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-07-30",
+          "accessed": "2026-11-10",
+          "quote": "vice president and chief marketing and engagement officer for Penn Medicine from 2021 to 2025."
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "PennMedicine.org",
+      "url": "https://www.pennmedicine.org/",
+      "note": "Single site since May 2025, replacing four health system sites.",
+      "evidence": [
+        {
+          "url": "https://www.pennmedicine.org/",
+          "title": "[pennmedicine.org home page; page title not captured]",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "With locations across PA and NJ, Penn Medicine delivers advanced care with a personal touch, right in your neighborhood."
+        },
+        {
+          "url": "https://www.pennmedicine.org/news/new-website-experience",
+          "title": "Welcome to the new PennMedicine.org!",
+          "publisher": "Penn Medicine",
+          "published": "2025-05-07",
+          "accessed": "2026-11-10",
+          "quote": "We combined four separate health system websites into one better one."
+        }
+      ]
+    },
+    {
+      "name": "Penn Medicine News and News Blog",
+      "url": "https://www.pennmedicine.org/news/news-blog",
+      "evidence": [
+        {
+          "url": "https://www.pennmedicine.org/news/news-blog",
+          "title": "[Penn Medicine News Blog listing; page title not captured]",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Discover groundbreaking biomedical discoveries, pioneering health care innovations, and expert perspectives from Penn Medicine."
+        },
+        {
+          "url": "https://pennmedicine.org/news/news-blog",
+          "title": "About this Blog (Penn Medicine News Blog)",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "This blog is written and produced by Penn Medicine’s Department of Communications."
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@PennMedicine",
+      "note": "Channel page opened 2026-11-10; subscriber count could not be read.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/@PennMedicine",
+          "title": "Penn Medicine - YouTube",
+          "publisher": "YouTube",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Physician podcasts",
+      "url": "https://www.pennmedicine.org/physicians-hub/podcast-series",
+      "evidence": [
+        {
+          "url": "https://www.pennmedicine.org/physicians-hub/podcast-series",
+          "title": "Subscribe to Penn Medicine Physician Podcasts",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Events calendars",
+      "url": "https://www.pennmedicine.org/events",
+      "note": "Separate calendars for Philadelphia, Bucks County, Chester County, Lancaster County and Princeton.",
+      "evidence": [
+        {
+          "url": "https://www.pennmedicine.org/events",
+          "title": "Penn Medicine events calendars",
+          "publisher": "Penn Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Social platforms (Facebook, Threads, Instagram, X, LinkedIn)",
+      "url": "https://web-standards.pennmedicine.org/content-guidelines/social-media",
+      "note": "Named as supported platforms in Penn Medicine's web standards; the individual account pages could not be opened by the research tool, so account URLs and follower counts are not recorded.",
+      "evidence": [
+        {
+          "url": "https://web-standards.pennmedicine.org/content-guidelines/social-media",
+          "title": "Social media",
+          "publisher": "Penn Medicine Web Standards",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Current social platforms supported include Facebook, Threads, Instagram, X, LinkedIn and YouTube."
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "Its heritage and research record are specific and ownable: the 2026 brand campaign and the treatment pages both lean on documented firsts rather than general quality claims.",
+        "basedOn": [
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "text": "It consolidated four system websites into one in 2025, which puts doctor search and online scheduling for its regions on a single site under a local-access headline.",
+        "basedOn": [
+          "f1",
+          "f7"
+        ]
+      },
+      {
+        "text": "Vendor accounts describe service-line marketing managed against patient-volume outcomes rather than media metrics alone.",
+        "basedOn": [
+          "f8"
+        ]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "The About page's facilities sentence, as opened on 2026-11-10, names six hospitals and not Doylestown, which joined as the seventh hospital in April 2025.",
+        "basedOn": [
+          "f6"
+        ]
+      },
+      {
+        "text": "A social media directory page on pennmedicine.org still listed Google+ when opened on 2026-11-10, alongside a web standards page that lists the current platforms.",
+        "basedOn": [
+          "f4"
+        ]
+      },
+      {
+        "text": "TikTok is not among the social platforms Penn Medicine's web standards list as supported, as opened on 2026-11-10.",
+        "basedOn": [
+          "f4"
+        ]
+      }
+    ],
+    "opportunitiesForUpmc": [
+      {
+        "text": "On the pages reviewed, Penn Medicine's podcasts are aimed at clinicians; UPMC could evaluate a consumer-facing audio or video series as a point of difference, after checking Penn Medicine's current line-up.",
+        "basedOn": [
+          "f5"
+        ]
+      },
+      {
+        "text": "Penn Medicine's brand campaign is built on being first historically; UPMC could position on a different axis, such as access or present-day outcomes, instead of contesting heritage.",
+        "basedOn": [
+          "f2"
+        ]
+      },
+      {
+        "text": "Penn Medicine's home page now carries a local-access message as its network grows; UPMC could check how its own regional pages answer that message wherever the two systems' service areas meet.",
+        "basedOn": [
+          "f6",
+          "f7"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "example-health",
+  "name": "Example Health (fictional)",
+  "asOf": "2026-01-20",
+  "positioning": {
+    "text": "Example Health (fictional) describes itself as a community health system for the invented town of Sampleton.",
+    "quote": "Care that exists only in a test fixture.",
+    "evidence": [
+      {
+        "url": "https://example.com/fixture/example-health/about",
+        "title": "About Example Health (fictional page)",
+        "publisher": "Example Publisher (fictional)",
+        "published": null,
+        "accessed": "2026-01-20",
+        "quote": "Care that exists only in a test fixture."
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "content",
+      "text": "Fixture fact: Example Health (fictional) publishes an invented weekly health blog called Sample Notes.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/example-health/blog",
+          "title": "Sample Notes blog (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "channel",
+      "text": "Fixture fact: its invented video channel was shown with 1,234 subscribers on 2026-01-20.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/example-health/video",
+          "title": "Example Health video channel (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": null,
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "campaign",
+      "text": "Fixture fact: it announced an invented campaign named \"Neighbours First\" in January 2026.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/example-health/newsroom/neighbours-first",
+          "title": "Neighbours First campaign announcement (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        },
+        {
+          "url": "https://example.com/fixture/trade-press/neighbours-first",
+          "title": "Trade press note on Neighbours First (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "program",
+      "text": "Fixture fact: it runs an invented patient newsletter programme with a public sign-up page.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/example-health/newsletter",
+          "title": "Newsletter sign-up (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "recognition",
+      "text": "Fixture fact: an invented trade magazine listed it among \"sample systems to watch\".",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/trade-press/systems-to-watch",
+          "title": "Sample systems to watch (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2025-11",
+          "accessed": "2026-01-20"
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "Video channel",
+      "url": "https://example.com/fixture/example-health/video",
+      "note": "shown as 1,234 subscribers on 2026-01-20 (invented)",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/example-health/video",
+          "title": "Example Health video channel (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": null,
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "name": "Blog",
+      "url": "https://example.com/fixture/example-health/blog",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/example-health/blog",
+          "title": "Sample Notes blog (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "Fixture analysis: a regular blog and a video channel give it two owned content outlets.",
+        "basedOn": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "text": "Fixture analysis: the campaign was picked up outside its own newsroom.",
+        "basedOn": [
+          "f3"
+        ]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "Fixture analysis: the video channel is small next to the blog cadence.",
+        "basedOn": [
+          "f2"
+        ]
+      }
+    ],
+    "opportunitiesForUpmc": [
+      {
+        "text": "Fixture analysis: answer the weekly blog with a comparable regular series.",
+        "basedOn": [
+          "f1"
+        ]
+      },
+      {
+        "text": "Fixture analysis: pair a newsletter sign-up with campaign launches.",
+        "basedOn": [
+          "f3",
+          "f4"
+        ]
+      }
+    ]
+  }
+}

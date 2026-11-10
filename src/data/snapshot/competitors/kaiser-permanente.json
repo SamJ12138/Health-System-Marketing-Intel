@@ -1,0 +1,403 @@
+{
+  "id": "kaiser-permanente",
+  "name": "Kaiser Permanente",
+  "asOf": "2026-11-10",
+  "positioning": {
+    "text": "Kaiser Permanente says it exists to provide high-quality, affordable health care services and to improve the health of its members and communities, with care focused on members' total health and a model that integrates care and coverage.",
+    "quote": "Care for members and patients focuses on their total health.",
+    "evidence": [
+      {
+        "url": "https://about.kaiserpermanente.org/who-we-are/our-mission",
+        "title": "Our Mission | Kaiser Permanente",
+        "publisher": "Kaiser Permanente",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "Care for members and patients focuses on their total health."
+      },
+      {
+        "url": "https://about.kaiserpermanente.org/expertise-and-impact/public-policy/for-all-that-health-care-can-be",
+        "title": "Health Care That Works | Kaiser Permanente",
+        "publisher": "Kaiser Permanente",
+        "published": "2024-01-02",
+        "accessed": "2026-11-10",
+        "quote": "Kaiser Permanente's unique model integrates care and coverage at every stage of life."
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "metric",
+      "text": "Kaiser Permanente's Fast Facts page lists 12.8M members nationally, with data as of September 30, 2026, across regions that include Georgia (446,948 members) and the Mid-Atlantic States (736,189 members; Baltimore, Washington, D.C., Northern Virginia and Suburban Maryland).",
+      "evidence": [
+        {
+          "url": "https://about.kaiserpermanente.org/who-we-are/fast-facts",
+          "title": "Fast Facts | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Data as of September 30, 2026, unless otherwise noted."
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "campaign",
+      "text": "The Thrive advertising campaign began in 2004; a 2014 Kaiser Permanente release called it the organization's longest-running campaign and listed TV, radio, print, online and out-of-home ads.",
+      "evidence": [
+        {
+          "url": "https://prnewswire.com/news-releases/a-decade-after-its-launch-kaiser-permanentes-thrive-campaign-highlights-ease-and-accessibility-of-high-quality-care-in-age-of-digital-health-273193161.html",
+          "title": "A Decade After its Launch, Kaiser Permanente's Thrive Campaign Highlights Ease and Accessibility of High-Quality Care in Age of Digital Health",
+          "publisher": "Kaiser Permanente via PR Newswire",
+          "published": "2014-08-29",
+          "accessed": "2026-11-10",
+          "quote": "The 2014 Thrive launch marks the 11th year of the campaign."
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "campaign",
+      "text": "In March 2023 Becker's reported that Kaiser Permanente had refreshed its brand promise with its first new campaign in about 20 years, led by national chief marketing officer Kristy LoRusso.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/it-all-comes-back-to-storytelling-how-kaisers-marketing-chief-brings-the-brand-to-life",
+          "title": "'It all comes back to storytelling': How Kaiser's marketing chief brings the brand to life",
+          "publisher": "Becker's Hospital Review",
+          "published": "2023-03-22",
+          "accessed": "2026-11-10",
+          "quote": "Ms. LoRusso is excited about Kaiser's refreshed \"brand promise,\" its first new campaign in about 20 years"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "campaign",
+      "text": "The brand campaign \"A Better Idea for Health Care\", created by Droga5 and launched in select markets in 2025, went national in June 2026 with ads featuring soccer player Son Heung-min across digital, social, audio, film and out-of-home channels.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/kaiser-permanente-taps-soccer-star-for-nationwide-brand-campaign/",
+          "title": "Kaiser Permanente taps soccer star for nationwide brand campaign",
+          "publisher": "Becker's Hospital Review",
+          "published": "2026-06-03",
+          "accessed": "2026-11-10",
+          "quote": "The campaign, which launched in select markets in 2025, will roll out across digital, social, audio, film and out-of-home channels."
+        },
+        {
+          "url": "https://shots.net/news/view/kaiser-permanente-is-a-better-idea-for-health-care",
+          "title": "Kaiser Permanente is a better idea for health care",
+          "publisher": "shots",
+          "published": "2026-06-04",
+          "accessed": "2026-11-10",
+          "quote": "the debut of the new films starring Son usher in the campaign's expansion to the national stage."
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "campaign",
+      "text": "Find Your Words was announced by Kaiser Permanente Colorado on May 1, 2017 as a public health awareness campaign on depression using TV, radio and online messages; on 2026-11-10 findyourwords.org redirected to a kp.org page presenting it as a mental health resource for young people.",
+      "evidence": [
+        {
+          "url": "https://prnewswire.com/news-releases/kaiser-permanente-launches-find-your-words-campaign-to-fight-stigma-around-mental-health-300448632.html",
+          "title": "Kaiser Permanente Launches \"Find Your Words\" Campaign to Fight Stigma Around Mental Health",
+          "publisher": "Kaiser Permanente Colorado via PR Newswire",
+          "published": "2017-05-01",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://healthy.kaiserpermanente.org/health-wellness/mental-health/find-your-words",
+          "title": "Find Your Words: Empowering Mental Health Conversations | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Empowering young people to talk about mental health"
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "category": "content",
+      "text": "The Health and Wellness hub on kp.org links a health encyclopedia described as covering over 4,000 health topics, a recipe library of over 100 healthy meals, classes and programs, wellness coaching and a mental health section.",
+      "evidence": [
+        {
+          "url": "https://healthy.kaiserpermanente.org/health-wellness",
+          "title": "Health and Wellness | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Browse over 100 healthy meals to make at home."
+        },
+        {
+          "url": "https://healthy.kaiserpermanente.org/health-wellness/mental-health",
+          "title": "Mental Health and Wellness Care | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "category": "program",
+      "text": "Kaiser Permanente's self-care apps page names Calm and Headspace as apps available to members aged 13 and older, and states that the apps are not covered under health plan benefits and may be discontinued at any time.",
+      "evidence": [
+        {
+          "url": "https://healthy.kaiserpermanente.org/health-wellness/mental-health/tools-resources/digital",
+          "title": "Self-Care Apps for Mental Health Support | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Everyone needs support for total health — mind, body, and spirit."
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "category": "program",
+      "text": "The Kaiser Permanente app has its own page on kp.org, which describes a free app in English and Spanish for booking visits, refilling prescriptions, viewing health history and using a digital ID card.",
+      "evidence": [
+        {
+          "url": "https://healthy.kaiserpermanente.org/pages/mobile-app",
+          "title": "Mobile App: Good Health on the Go | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Manage your care and coverage quickly and securely. Anytime, anywhere."
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "category": "channel",
+      "text": "On 2026-11-10 thrive.kaiserpermanente.org redirected to the kp.org front door, while the Facebook and Pinterest accounts linked from Kaiser Permanente's site used the handle kpthrive.",
+      "evidence": [
+        {
+          "url": "https://healthy.kaiserpermanente.org/front-door",
+          "title": "Custom Care & Coverage Just For You | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://about.kaiserpermanente.org/who-we-are/fast-facts",
+          "title": "Fast Facts | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "category": "content",
+      "text": "Two podcasts sit on Kaiser Permanente-affiliated sites: the Permanente Medicine Podcast from the Permanente Medical Groups, whose newest episode shown was dated August 6, 2026, and KP Research Radio from the Division of Research, whose newest episode shown was dated January 9, 2025.",
+      "evidence": [
+        {
+          "url": "https://permanente.org/category/podcast/",
+          "title": "The Permanente Medicine Podcast",
+          "publisher": "Permanente Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://divisionofresearch.kaiserpermanente.org/kp-research-radio-podcasts/",
+          "title": "KP Research Radio Podcasts - Kaiser Permanente Division of Research",
+          "publisher": "Kaiser Permanente Division of Research",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "KP Research Radio podcasts which highlight the work of division researchers and their colleagues."
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/kpthrive",
+      "note": "Linked from Kaiser Permanente's Fast Facts page and the kp.org front door; no follower count recorded.",
+      "evidence": [
+        {
+          "url": "https://about.kaiserpermanente.org/who-we-are/fast-facts",
+          "title": "Fast Facts | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/aboutKP",
+      "note": "Linked from the kp.org front door; no follower count recorded.",
+      "evidence": [
+        {
+          "url": "https://healthy.kaiserpermanente.org/front-door",
+          "title": "Custom Care & Coverage Just For You | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/kaiserpermanente",
+      "note": "Linked from Kaiser Permanente's Fast Facts page; no follower count recorded.",
+      "evidence": [
+        {
+          "url": "https://about.kaiserpermanente.org/who-we-are/fast-facts",
+          "title": "Fast Facts | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/kaiser-permanente",
+      "note": "Linked from Kaiser Permanente's Fast Facts page; no follower count recorded.",
+      "evidence": [
+        {
+          "url": "https://about.kaiserpermanente.org/who-we-are/fast-facts",
+          "title": "Fast Facts | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/kaiserpermanenteorg",
+      "note": "Channel page opened and titled Kaiser Permanente; the subscriber count was not visible to the research tool on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/kaiserpermanenteorg",
+          "title": "Kaiser Permanente - YouTube",
+          "publisher": "YouTube",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/kpthrive/",
+      "note": "Linked from Kaiser Permanente's Fast Facts page; no follower count recorded.",
+      "evidence": [
+        {
+          "url": "https://about.kaiserpermanente.org/who-we-are/fast-facts",
+          "title": "Fast Facts | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "News hub",
+      "url": "https://about.kaiserpermanente.org/news",
+      "note": "Announcements, features, media coverage and press releases, filterable by type, location and topic.",
+      "evidence": [
+        {
+          "url": "https://about.kaiserpermanente.org/news",
+          "title": "News | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Updates on everything that is Kaiser Permanente."
+        }
+      ]
+    },
+    {
+      "name": "Health and Wellness hub",
+      "url": "https://healthy.kaiserpermanente.org/health-wellness",
+      "evidence": [
+        {
+          "url": "https://healthy.kaiserpermanente.org/health-wellness",
+          "title": "Health and Wellness | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Kaiser Permanente app",
+      "url": "https://healthy.kaiserpermanente.org/pages/mobile-app",
+      "evidence": [
+        {
+          "url": "https://healthy.kaiserpermanente.org/pages/mobile-app",
+          "title": "Mobile App: Good Health on the Go | Kaiser Permanente",
+          "publisher": "Kaiser Permanente",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Permanente Medicine Podcast",
+      "url": "https://permanente.org/category/podcast/",
+      "note": "Newest episode shown on 2026-11-10 was dated August 6, 2026.",
+      "evidence": [
+        {
+          "url": "https://permanente.org/category/podcast/",
+          "title": "The Permanente Medicine Podcast",
+          "publisher": "Permanente Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "Brand platforms run for a long time: Thrive began in 2004, and trade coverage in 2023 and in 2026 each described the newer work as the first of its kind in 20 or more years.",
+        "basedOn": ["f2", "f3", "f4"]
+      },
+      {
+        "text": "The current campaign advertises the coordinated care model itself, so the brand message and the organization's stated differentiator are the same thing.",
+        "basedOn": ["f4"]
+      },
+      {
+        "text": "Mental health is covered at three levels: a public awareness resource, a care section on the member site, and consumer apps offered to members.",
+        "basedOn": ["f5", "f6", "f7"]
+      },
+      {
+        "text": "Utility content and tools (health encyclopedia, recipes, app) give members reasons to return to owned properties outside of an ad flight.",
+        "basedOn": ["f6", "f8"]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "As of 2026-11-10 the Thrive name survives in two social handles while the Thrive web address redirects and the current brand platform carries a different name.",
+        "basedOn": ["f4", "f9"]
+      },
+      {
+        "text": "The newest KP Research Radio episode shown on its page on 2026-11-10 was dated January 9, 2025.",
+        "basedOn": ["f10"]
+      }
+    ],
+    "opportunitiesForUpmc": [
+      {
+        "text": "Kaiser Permanente lists members in the Mid-Atlantic States and Georgia, so its brand work is a relevant benchmark for East Coast markets and should not be treated as West Coast only.",
+        "basedOn": ["f1"]
+      },
+      {
+        "text": "Test how clearly UPMC's own advertising explains coordination between care and coverage, which is the idea the current Kaiser Permanente campaign leads with.",
+        "basedOn": ["f4"]
+      },
+      {
+        "text": "Compare UPMC's mental health content against the three-level pattern here: a public awareness resource, a care section, and member apps.",
+        "basedOn": ["f5", "f6", "f7"]
+      },
+      {
+        "text": "Review whether UPMC's app has a public, plain-language feature page comparable to the Kaiser Permanente app page.",
+        "basedOn": ["f8"]
+      }
+    ]
+  }
+}

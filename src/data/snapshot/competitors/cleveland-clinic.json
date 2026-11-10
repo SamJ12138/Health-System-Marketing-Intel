@@ -1,0 +1,519 @@
+{
+  "id": "cleveland-clinic",
+  "name": "Cleveland Clinic",
+  "asOf": "2026-11-10",
+  "positioning": {
+    "text": "Cleveland Clinic states its mission as caring for life, researching for health and educating those who serve, and its vision as being the best place for care anywhere and the best place to work in healthcare.",
+    "quote": "Caring for life, researching for health, educating those who serve.",
+    "evidence": [
+      {
+        "url": "https://my.clevelandclinic.org/about/overview/who-we-are/mission-vision-values",
+        "title": "Mission, Vision & Values | Cleveland Clinic",
+        "publisher": "Cleveland Clinic",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "Caring for life, researching for health, educating those who serve."
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "content",
+      "text": "Health Essentials (health.clevelandclinic.org) is Cleveland Clinic's consumer health and wellness site; its About page says articles start with a Cleveland Clinic medical expert and are fact-checked and approved by medical experts before publication.",
+      "evidence": [
+        {
+          "url": "https://health.clevelandclinic.org/",
+          "title": "Cleveland Clinic Health Essentials",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Health and wellness information and insights from Cleveland Clinic experts to help you live healthier every day."
+        },
+        {
+          "url": "https://health.clevelandclinic.org/about-us/",
+          "title": "About Us | Cleveland Clinic Health Essentials",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Everything we write is to help you live healthier every day."
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "metric",
+      "text": "In June 2023 Marketing Brew reported that chief marketing and communications officer Paul Matsen anticipated the Cleveland Clinic website would reach more than 1.2 billion visits that year, citing interest in its health library and Health Essentials content.",
+      "evidence": [
+        {
+          "url": "https://www.marketingbrew.com/stories/2023/06/27/a-conversation-with-the-cmo-of-the-cleveland-clinic",
+          "title": "A conversation with the CMO of the Cleveland Clinic",
+          "publisher": "Marketing Brew",
+          "published": "2023-06-27",
+          "accessed": "2026-11-10",
+          "quote": "This year, he anticipates its website will reach more than 1.2 billion visits"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "campaign",
+      "text": "In the same June 2023 interview Matsen said the organization runs over 100 campaigns for specific diseases and conditions, targeted by geography.",
+      "evidence": [
+        {
+          "url": "https://www.marketingbrew.com/stories/2023/06/27/a-conversation-with-the-cmo-of-the-cleveland-clinic",
+          "title": "A conversation with the CMO of the Cleveland Clinic",
+          "publisher": "Marketing Brew",
+          "published": "2023-06-27",
+          "accessed": "2026-11-10",
+          "quote": "We have over 100 campaigns for specific diseases and conditions that we target into geographies"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "content",
+      "text": "Cleveland Clinic's podcasts page lists shows for both consumers and medical professionals, including Health Essentials, Nutrition Essentials, Love Your Heart, Cancer Advances and Cardiac Consult; the Health Essentials podcast's latest listed episode was dated Nov. 4, 2026, and the pages state no download figures.",
+      "evidence": [
+        {
+          "url": "https://my.clevelandclinic.org/podcasts",
+          "title": "Podcasts | Cleveland Clinic",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://my.clevelandclinic.org/podcasts/health-essentials",
+          "title": "Cleveland Clinic Health Essentials Podcast",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Tune in for trusted advice on health, wellness and nutrition for the whole family from Cleveland Clinic experts."
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "channel",
+      "text": "Becker's reported in October 2023 that TikTok began directing users who search mental health terms to information from Cleveland Clinic, and in January 2025 that Matsen said growth is strongest on TikTok and Instagram.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/cleveland-clinic-tiktok-partner-on-search/",
+          "title": "Cleveland Clinic, TikTok partner on search",
+          "publisher": "Becker's Hospital Review",
+          "published": "2023-10-11",
+          "accessed": "2026-11-10",
+          "quote": "they will be directed to information provided by Cleveland Clinic and the National Institutes of Mental Health."
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/generative-ai-tiktok-marketing-at-cleveland-clinic-in-25.html",
+          "title": "Generative AI, TikTok: Marketing at Cleveland Clinic in '25",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-01-16",
+          "accessed": "2026-11-10",
+          "quote": "Growth is strongest on TikTok and Instagram."
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "category": "program",
+      "text": "In January 2025 Becker's reported that generative AI would be a major focus of Cleveland Clinic's marketing department in 2025 and quoted Matsen saying the organization moved to a headless CMS in 2024.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/generative-ai-tiktok-marketing-at-cleveland-clinic-in-25.html",
+          "title": "Generative AI, TikTok: Marketing at Cleveland Clinic in '25",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-01-16",
+          "accessed": "2026-11-10",
+          "quote": "In 2024, we transitioned to a headless CMS for better content management across platforms."
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "category": "metric",
+      "text": "Becker's June 2026 audit of platform counts listed Cleveland Clinic's YouTube channel at 739,000 subscribers, second among the systems listed after Mayo Clinic's 1.25 million; an earlier Becker's article (August 2023) had reported nearly 450,000 subscribers and more than 4,500 uploaded videos. In October 2024 Becker's reported that every video is reviewed and approved by a Cleveland Clinic medical professional and that the system has worked with YouTube since 2021.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/12-most-followed-health-systems-on-social-media/",
+          "title": "12 most-followed health systems on social media",
+          "publisher": "Becker's Hospital Review",
+          "published": "2026-06-04",
+          "accessed": "2026-11-10",
+          "quote": "Cleveland Clinic: 739,000 subscribers"
+        },
+        {
+          "url": "https://beckershospitalreview.com/digital-marketing/how-cleveland-clinic-mayo-clinic-are-fighting-medical-misinformation.html",
+          "title": "How Cleveland Clinic, Mayo Clinic are fighting medical misinformation",
+          "publisher": "Becker's Hospital Review",
+          "published": "2023-08-31",
+          "accessed": "2026-11-10",
+          "quote": "nearly 450,000 subscribers and more than 4,500 uploaded videos."
+        },
+        {
+          "url": "https://beckershospitalreview.com/digital-marketing/how-cleveland-clinic-is-tackling-youtube-content-challenges.html",
+          "title": "How Cleveland Clinic is tackling YouTube content challenges",
+          "publisher": "Becker's Hospital Review",
+          "published": "2024-10-25",
+          "accessed": "2026-11-10",
+          "quote": "Every video we create is reviewed and approved by a Cleveland Clinic medical professional."
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "category": "campaign",
+      "text": "\"For Every Care in the World\" is Cleveland Clinic's brand campaign line: Becker's reported in June 2020 that the campaign ran television ads featuring real patients and caregivers and won a gold Healthcare Advertising Award, and a national landing page on clevelandclinic.org still carried that title when opened on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/cleveland-clinic-s-award-winning-ad-campaigns-center-on-authenticity-compassion",
+          "title": "Cleveland Clinic's award-winning ad campaigns center on authenticity, compassion",
+          "publisher": "Becker's Hospital Review",
+          "published": "2020-06-11",
+          "accessed": "2026-11-10",
+          "quote": "ran television ads featuring real patients and caregivers."
+        },
+        {
+          "url": "https://my.clevelandclinic.org/landing/national-acuity",
+          "title": "For Every Care in the World | Cleveland Clinic",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "For Every Care in the World"
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "category": "program",
+      "text": "Cleveland Clinic's MyChart page promotes the MyClevelandClinic app, online appointment booking and scheduled and on-demand video visits; its Facts & Figures page lists 1.2M virtual visits and 300 outpatient locations as year-end 2025 totals.",
+      "evidence": [
+        {
+          "url": "https://my.clevelandclinic.org/online-services/mychart",
+          "title": "MyChart | Cleveland Clinic",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Instantly book an appointment for primary care and select specialties."
+        },
+        {
+          "url": "https://my.clevelandclinic.org/about/overview/who-we-are/facts-figures",
+          "title": "Facts & Figures | Cleveland Clinic",
+          "publisher": "Cleveland Clinic",
+          "published": "2025",
+          "accessed": "2026-11-10",
+          "quote": "The statistics reflect official year-end totals as of Dec. 31, 2025, unless otherwise noted."
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "category": "channel",
+      "text": "As opened on 2026-11-10, the Health Essentials footer and the Social Media Policy page link to Facebook, X (Twitter), YouTube, Instagram, LinkedIn, Pinterest and Snapchat accounts; TikTok is not in either list, although a 2020 newsroom release refers to Cleveland Clinic's TikTok channel.",
+      "evidence": [
+        {
+          "url": "https://health.clevelandclinic.org/",
+          "title": "Cleveland Clinic Health Essentials",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Health and wellness information and insights from Cleveland Clinic experts to help you live healthier every day."
+        },
+        {
+          "url": "https://my.clevelandclinic.org/about/website/social-media",
+          "title": "Social Media Policy | Cleveland Clinic",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://newsroom.clevelandclinic.org/2020/11/25/cleveland-clinic-and-tiktok-collaborate-to-support-national-maskup-campaign/",
+          "title": "Cleveland Clinic and TikTok Collaborate to Support National #MaskUp Campaign",
+          "publisher": "Cleveland Clinic Newsroom",
+          "published": "2020-11-25",
+          "accessed": "2026-11-10",
+          "quote": "Cleveland Clinic and TikTok have joined forces to motivate the public to wear facemasks."
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "Health Essentials",
+      "url": "https://health.clevelandclinic.org/",
+      "note": "Consumer health content hub.",
+      "evidence": [
+        {
+          "url": "https://health.clevelandclinic.org/",
+          "title": "Cleveland Clinic Health Essentials",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Health and wellness information and insights from Cleveland Clinic experts to help you live healthier every day."
+        }
+      ]
+    },
+    {
+      "name": "Health Essentials newsletter",
+      "url": "https://my.clevelandclinic.org/health-essentials-newsletter",
+      "note": "Sign-up page; no subscriber count stated as of 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://my.clevelandclinic.org/health-essentials-newsletter",
+          "title": "Sign Up for Health Essentials | Cleveland Clinic",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Get the latest health information straight to your inbox from our experts."
+        }
+      ]
+    },
+    {
+      "name": "Podcasts",
+      "url": "https://my.clevelandclinic.org/podcasts",
+      "note": "Directory of Cleveland Clinic podcasts; no download figures stated as of 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://my.clevelandclinic.org/podcasts",
+          "title": "Podcasts | Cleveland Clinic",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Newsroom",
+      "url": "https://newsroom.clevelandclinic.org/",
+      "evidence": [
+        {
+          "url": "https://newsroom.clevelandclinic.org/2026/01/26/state-of-the-clinic-cleveland-clinic-meets-healthcare-challenges-with-innovative-solutions",
+          "title": "State of the Clinic: Cleveland Clinic Meets Healthcare Challenges with Innovative Solutions",
+          "publisher": "Cleveland Clinic Newsroom",
+          "published": "2026-01-26",
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/user/clevelandclinic",
+      "note": "Subscriber count could not be read from the channel page on 2026-11-10. Becker's June 2026 audit of platform counts listed 739,000 subscribers; an earlier Becker's article reported nearly 450,000 (2023-08-31).",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/user/clevelandclinic",
+          "title": "Cleveland Clinic - YouTube",
+          "publisher": "YouTube",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Cleveland Clinic is a nonprofit multispecialty academic medical center."
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/12-most-followed-health-systems-on-social-media/",
+          "title": "12 most-followed health systems on social media",
+          "publisher": "Becker's Hospital Review",
+          "published": "2026-06-04",
+          "accessed": "2026-11-10",
+          "quote": "Cleveland Clinic: 739,000 subscribers"
+        },
+        {
+          "url": "https://beckershospitalreview.com/digital-marketing/how-cleveland-clinic-mayo-clinic-are-fighting-medical-misinformation.html",
+          "title": "How Cleveland Clinic, Mayo Clinic are fighting medical misinformation",
+          "publisher": "Becker's Hospital Review",
+          "published": "2023-08-31",
+          "accessed": "2026-11-10",
+          "quote": "nearly 450,000 subscribers and more than 4,500 uploaded videos."
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/ClevelandClinic",
+      "note": "As linked from the Health Essentials footer.",
+      "evidence": [
+        {
+          "url": "https://health.clevelandclinic.org/",
+          "title": "Cleveland Clinic Health Essentials",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Health and wellness information and insights from Cleveland Clinic experts to help you live healthier every day."
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/clevelandclinic",
+      "note": "As linked from the Health Essentials footer.",
+      "evidence": [
+        {
+          "url": "https://health.clevelandclinic.org/",
+          "title": "Cleveland Clinic Health Essentials",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Health and wellness information and insights from Cleveland Clinic experts to help you live healthier every day."
+        }
+      ]
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/clevelandclinic/",
+      "note": "As linked from the Health Essentials footer.",
+      "evidence": [
+        {
+          "url": "https://health.clevelandclinic.org/",
+          "title": "Cleveland Clinic Health Essentials",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Health and wellness information and insights from Cleveland Clinic experts to help you live healthier every day."
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/cleveland-clinic",
+      "note": "As linked from the Health Essentials footer.",
+      "evidence": [
+        {
+          "url": "https://health.clevelandclinic.org/",
+          "title": "Cleveland Clinic Health Essentials",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Health and wellness information and insights from Cleveland Clinic experts to help you live healthier every day."
+        }
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/clevelandclinic/",
+      "note": "As linked from the Health Essentials footer.",
+      "evidence": [
+        {
+          "url": "https://health.clevelandclinic.org/",
+          "title": "Cleveland Clinic Health Essentials",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Health and wellness information and insights from Cleveland Clinic experts to help you live healthier every day."
+        }
+      ]
+    },
+    {
+      "name": "Snapchat",
+      "url": "https://www.snapchat.com/add/clevelandclinic",
+      "note": "As linked from the Health Essentials footer.",
+      "evidence": [
+        {
+          "url": "https://health.clevelandclinic.org/",
+          "title": "Cleveland Clinic Health Essentials",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Health and wellness information and insights from Cleveland Clinic experts to help you live healthier every day."
+        }
+      ]
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@clevelandclinic",
+      "note": "Handle as referenced in a Cleveland Clinic newsroom release (2020-11-25); the TikTok page itself could not be opened by the research tool, so no follower count is recorded.",
+      "evidence": [
+        {
+          "url": "https://newsroom.clevelandclinic.org/2020/11/25/cleveland-clinic-and-tiktok-collaborate-to-support-national-maskup-campaign/",
+          "title": "Cleveland Clinic and TikTok Collaborate to Support National #MaskUp Campaign",
+          "publisher": "Cleveland Clinic Newsroom",
+          "published": "2020-11-25",
+          "accessed": "2026-11-10",
+          "quote": "Cleveland Clinic and TikTok have joined forces to motivate the public to wear facemasks."
+        }
+      ]
+    },
+    {
+      "name": "MyChart / MyClevelandClinic app",
+      "url": "https://my.clevelandclinic.org/online-services/mychart",
+      "evidence": [
+        {
+          "url": "https://my.clevelandclinic.org/online-services/mychart",
+          "title": "MyChart | Cleveland Clinic",
+          "publisher": "Cleveland Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Instantly book an appointment for primary care and select specialties."
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "Owned health content is tied directly to site traffic: the marketing chief attributed a projected 1.2 billion annual visits to the health library and Health Essentials.",
+        "basedOn": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "text": "Content is produced in several formats (articles, a multi-show podcast line-up and YouTube video), with medical review stated for both articles and video.",
+        "basedOn": [
+          "f1",
+          "f4",
+          "f7"
+        ]
+      },
+      {
+        "text": "Paid activity is described as granular (over 100 condition campaigns targeted by geography) and sits under a brand line that has been in use since at least 2020.",
+        "basedOn": [
+          "f3",
+          "f8"
+        ]
+      },
+      {
+        "text": "Platforms treat it as a reference source: TikTok routes mental health searches to its content and YouTube has worked with it since 2021.",
+        "basedOn": [
+          "f5",
+          "f7"
+        ]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "TikTok is absent from the social links in the Health Essentials footer and on the Social Media Policy page as opened on 2026-11-10, even though the marketing chief said in January 2025 that growth was strongest on TikTok and Instagram.",
+        "basedOn": [
+          "f5",
+          "f10"
+        ]
+      },
+      {
+        "text": "In Becker's June 2026 audit of platform counts, Cleveland Clinic's YouTube channel had 739,000 subscribers, second among the systems listed and behind Mayo Clinic's 1.25 million.",
+        "basedOn": [
+          "f7"
+        ]
+      }
+    ],
+    "opportunitiesForUpmc": [
+      {
+        "text": "Cleveland Clinic targets condition campaigns by geography; UPMC could map where its own destination service lines draw patients from before deciding where to compete on paid search and where not to.",
+        "basedOn": [
+          "f3"
+        ]
+      },
+      {
+        "text": "Clinician review of every video is a stated constraint at Cleveland Clinic; a UPMC video program could plan reviewer time and topic selection into the workflow from the start.",
+        "basedOn": [
+          "f7"
+        ]
+      },
+      {
+        "text": "Platform partnerships went to systems with a deep, reviewed content library; building and documenting a medical-review process for UPMC content is a prerequisite for the same kind of placement.",
+        "basedOn": [
+          "f1",
+          "f5"
+        ]
+      }
+    ]
+  }
+}

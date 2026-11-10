@@ -1,0 +1,107 @@
+[
+  {
+    "id": "fixture-video",
+    "topic": "Short video explainers (fixture trend)",
+    "asOf": "2026-01-20",
+    "summary": {
+      "text": "Fixture summary: invented trade press says health systems publish more short explainer videos. Nothing here describes a real organization.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/trade-press/short-video",
+          "title": "Short video in health marketing (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "text": "Fixture example: Example Health (fictional) posts a weekly one-minute explainer.",
+        "evidence": [
+          {
+            "url": "https://example.com/fixture/example-health/video",
+            "title": "Example Health video channel (fictional page)",
+            "publisher": "Example Publisher (fictional)",
+            "published": null,
+            "accessed": "2026-01-20"
+          }
+        ]
+      },
+      {
+        "text": "Fixture example: Sample Regional Medical (fictional) clips its podcast into short videos.",
+        "evidence": [
+          {
+            "url": "https://example.com/fixture/sample-regional/podcast",
+            "title": "Podcast listing (fictional page)",
+            "publisher": "Example Publisher (fictional)",
+            "published": "2026-01-15",
+            "accessed": "2026-01-20"
+          }
+        ]
+      }
+    ],
+    "channel": "Social",
+    "analysis": {
+      "relevance": "HIGH",
+      "effort": "Quick Win",
+      "recommendation": "Fixture recommendation: test a four-week series of one-minute explainers.",
+      "challenges": [
+        "Fixture challenge: clinician time",
+        "Fixture challenge: review speed"
+      ]
+    }
+  },
+  {
+    "id": "fixture-local-search",
+    "topic": "Local search listings (fixture trend)",
+    "asOf": "2026-01-20",
+    "summary": {
+      "text": "Fixture summary: an invented study says patients look up clinics through map listings.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/trade-press/local-search",
+          "title": "Local search study (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2025",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "text": "Fixture example: Sample Regional Medical (fictional) lists opening hours for every invented clinic.",
+        "evidence": [
+          {
+            "url": "https://example.com/fixture/sample-regional/locations",
+            "title": "Locations page (fictional page)",
+            "publisher": "Example Publisher (fictional)",
+            "published": "2026-01-15",
+            "accessed": "2026-01-20"
+          }
+        ]
+      },
+      {
+        "text": "Fixture example: Example Health (fictional) answers reviews on its invented listing.",
+        "evidence": [
+          {
+            "url": "https://example.com/fixture/example-health/listing",
+            "title": "Listing page (fictional page)",
+            "publisher": "Example Publisher (fictional)",
+            "published": "2026-01-15",
+            "accessed": "2026-01-20"
+          }
+        ]
+      }
+    ],
+    "channel": "Search",
+    "analysis": {
+      "relevance": "MEDIUM",
+      "effort": "Strategic Initiative",
+      "recommendation": "Fixture recommendation: audit listings for one invented region first.",
+      "challenges": [
+        "Fixture challenge: many locations"
+      ]
+    }
+  }
+]

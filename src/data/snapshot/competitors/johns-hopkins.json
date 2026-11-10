@@ -1,0 +1,329 @@
+{
+  "id": "johns-hopkins",
+  "name": "Johns Hopkins Medicine",
+  "asOf": "2026-11-10",
+  "positioning": {
+    "text": "Johns Hopkins Medicine states its mission as improving the health of the community and the world by setting the standard of excellence in medical education, research and clinical care; it integrates the Johns Hopkins University School of Medicine with the Johns Hopkins Health System and Hospital.",
+    "quote": "The mission of Johns Hopkins Medicine is to improve the health of the community and the world",
+    "evidence": [
+      {
+        "url": "https://www.hopkinsmedicine.org/about",
+        "title": "About Johns Hopkins Medicine (About page)",
+        "publisher": "Johns Hopkins Medicine",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "The mission of Johns Hopkins Medicine is to improve the health of the community and the world"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "channel",
+      "text": "Johns Hopkins Medicine's News page invites readers to interact through Twitter, Facebook, YouTube, LinkedIn \"and more\", to choose from over 30 publications, and to subscribe to e-newsletters.",
+      "evidence": [
+        {
+          "url": "https://www.hopkinsmedicine.org/news",
+          "title": "Get the Latest News from Johns Hopkins Medicine",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Interact with Johns Hopkins Medicine through Twitter, Facebook, YouTube, LinkedIn and more."
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "content",
+      "text": "The Publications page describes most of its listed titles by a professional, alumni, donor or staff audience, for example Hopkins Medicine Magazine for alumni and friends of the School of Medicine, Dome for faculty and staff, and NeuroLogic for referring physicians.",
+      "evidence": [
+        {
+          "url": "https://www.hopkinsmedicine.org/news/publications",
+          "title": "Publications | Johns Hopkins Medicine",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "content",
+      "text": "Johns Hopkins Medicine runs a podcast site whose categories include Health Newsfeed, PodMed, Research, Women's Health Tips, Johns Hopkins Nursing and Vital Conversations; the newest Health Newsfeed item shown on 2026-11-10 was dated July 10, 2026.",
+      "evidence": [
+        {
+          "url": "https://podcasts.hopkinsmedicine.org/category/podcasts/health-newsfeed/",
+          "title": "Health Newsfeed | Johns Hopkins Medicine Podcasts",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://podcasts.hopkinsmedicine.org/",
+          "title": "Johns Hopkins Medicine Podcasts",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "program",
+      "text": "The MyChart page, headed \"Manage Your Care Online\", promotes appointment management, test results, messaging, bill payment, video visits from home and the MyChart mobile app.",
+      "evidence": [
+        {
+          "url": "https://www.hopkinsmedicine.org/patient-care/mychart",
+          "title": "Manage Your Care Online | Johns Hopkins Medicine MyChart",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Manage your care from your phone with the MyChart mobile app."
+        },
+        {
+          "url": "https://www.hopkinsmedicine.org/telemedicine/video-visits",
+          "title": "Video Visits From Home",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Video visits allow patients to connect face-to-face in real time without leaving their home."
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "content",
+      "text": "Four of the five most recent news releases shown on 2026-11-10 (dated 10/13/2026 to 10/21/2026) concerned research findings, funding or faculty honors, and the Newsroom page carries a \"Johns Hopkins Medicine In the News\" section of outside media coverage.",
+      "evidence": [
+        {
+          "url": "https://www.hopkinsmedicine.org/news/newsroom/news-releases",
+          "title": "News Releases",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.hopkinsmedicine.org/news/newsroom",
+          "title": "Newsroom",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "category": "recognition",
+      "text": "The Johns Hopkins Hospital is one of the twenty hospitals on the U.S. News & World Report 2026-2027 Best Hospitals Honor Roll.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/rankings-and-ratings/20-best-hospitals-in-the-nation-us-news/",
+          "title": "20 best hospitals in the nation: US News",
+          "publisher": "Becker's Hospital Review",
+          "published": "2026-08-04",
+          "accessed": "2026-11-10",
+          "quote": "Twenty hospitals were recognized as U.S. News and World Report's 2026-2027 Best Hospitals Honor Roll."
+        },
+        {
+          "url": "https://medicine-matters.blogs.hopkinsmedicine.org/2026/08/2026-2027-u-s-news-world-report-best-hospitals-by-specialty-rankings/",
+          "title": "2026-2027 U.S. News & World Report Best Hospitals by Specialty Rankings",
+          "publisher": "Johns Hopkins Medicine, Department of Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "naming The Johns Hopkins Hospital to the Honor Roll as one of the top 20 hospitals in the nation."
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "category": "content",
+      "text": "Johns Hopkins Health Review was launched in fall 2014 by Johns Hopkins University and Johns Hopkins Medicine as a twice-yearly magazine reaching 100,000 households, according to an undated university progress page; it is not among the titles on the Johns Hopkins Medicine Publications page as of 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://10x2020progress.jhu.edu/2017/priorities/one-university/enhance-the-impact/leading-a-smart-sophisticated-conversation-about-health",
+          "title": "Smart Health Coverage",
+          "publisher": "Johns Hopkins University",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "The first issue was published in fall 2014."
+        },
+        {
+          "url": "https://www.hopkinsmedicine.org/news/publications",
+          "title": "Publications | Johns Hopkins Medicine",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "category": "program",
+      "text": "Johns Hopkins Medicine International has its own section of the site, which says it welcomes thousands of patients and families from around the globe each year and names collaborations in Brazil and Colombia.",
+      "evidence": [
+        {
+          "url": "https://www.hopkinsmedicine.org/international",
+          "title": "Johns Hopkins Medicine International Improving Health and Health Care Globally",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Each year, Johns Hopkins Medicine International welcomes thousands of patients and families from around the globe."
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "category": "channel",
+      "text": "A YouTube channel named Johns Hopkins Medicine exists under the handle @JohnsHopkinsMedicine.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/user/JohnsHopkinsMedicine",
+          "title": "Johns Hopkins Medicine (YouTube channel)",
+          "publisher": "YouTube",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "category": "program",
+      "text": "The Johns Hopkins Medicine Marketing and Communications department describes itself as a full-service office covering media relations, editorial services, web strategy, digital media, design, video production, marketing, and market analysis and planning.",
+      "evidence": [
+        {
+          "url": "https://www.hopkinsmedicine.org/administrative/marcomm",
+          "title": "Marketing and Communications",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/user/JohnsHopkinsMedicine",
+      "note": "Channel name Johns Hopkins Medicine, handle @JohnsHopkinsMedicine; the subscriber count was not visible to the research tool on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/user/JohnsHopkinsMedicine",
+          "title": "Johns Hopkins Medicine (YouTube channel)",
+          "publisher": "YouTube",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Podcasts",
+      "url": "https://podcasts.hopkinsmedicine.org/",
+      "note": "Newest Health Newsfeed item shown on 2026-11-10 was dated July 10, 2026.",
+      "evidence": [
+        {
+          "url": "https://podcasts.hopkinsmedicine.org/",
+          "title": "Johns Hopkins Medicine Podcasts",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Newsroom",
+      "url": "https://www.hopkinsmedicine.org/news/newsroom",
+      "note": "News releases, media relations contact, and a section of outside coverage titled Johns Hopkins Medicine In the News.",
+      "evidence": [
+        {
+          "url": "https://www.hopkinsmedicine.org/news/newsroom",
+          "title": "Newsroom",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.hopkinsmedicine.org/news/newsroom/news-releases",
+          "title": "News Releases",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Publications",
+      "url": "https://www.hopkinsmedicine.org/news/publications",
+      "note": "The News page describes this as over 30 publications.",
+      "evidence": [
+        {
+          "url": "https://www.hopkinsmedicine.org/news/publications",
+          "title": "Publications | Johns Hopkins Medicine",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "MyChart patient portal",
+      "url": "https://www.hopkinsmedicine.org/patient-care/mychart",
+      "evidence": [
+        {
+          "url": "https://www.hopkinsmedicine.org/patient-care/mychart",
+          "title": "Manage Your Care Online | Johns Hopkins Medicine MyChart",
+          "publisher": "Johns Hopkins Medicine",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "The newsroom produces a steady flow of research-led releases and shows the outside coverage that follows, which keeps the brand tied to discovery.",
+        "basedOn": ["f5"]
+      },
+      {
+        "text": "A current national ranking gives the brand a third-party proof point that needs no explanation.",
+        "basedOn": ["f6"]
+      },
+      {
+        "text": "The owned publishing footprint is large: over 30 publications by its own count, plus a podcast site with several series.",
+        "basedOn": ["f1", "f2", "f3"]
+      },
+      {
+        "text": "Marketing and communications is organized as one in-house, full-service office spanning media relations, web, video and market analysis.",
+        "basedOn": ["f10"]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "As of 2026-11-10 most titles on the Publications page are described as written for referring physicians, alumni, donors or staff; few are described as written for patients or the general public.",
+        "basedOn": ["f2"]
+      },
+      {
+        "text": "Johns Hopkins Health Review, the household magazine launched in 2014, does not appear on the Publications page as of 2026-11-10.",
+        "basedOn": ["f7"]
+      }
+    ],
+    "opportunitiesForUpmc": [
+      {
+        "text": "Patient-facing publishing is where UPMC can stand apart, since the listed Hopkins publications mostly address professional and alumni audiences.",
+        "basedOn": ["f2", "f7"]
+      },
+      {
+        "text": "Benchmark how often UPMC turns research results into news releases against the cadence visible in the Hopkins newsroom.",
+        "basedOn": ["f5"]
+      },
+      {
+        "text": "A short, regular health-news audio format like Health Newsfeed is a low-cost model UPMC could evaluate.",
+        "basedOn": ["f3"]
+      },
+      {
+        "text": "Compare UPMC's portal landing page with the Hopkins MyChart page, which leads with tasks a patient can do online and includes video visits.",
+        "basedOn": ["f4"]
+      }
+    ]
+  }
+}

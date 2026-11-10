@@ -1,0 +1,395 @@
+{
+  "id": "geisinger",
+  "name": "Geisinger",
+  "asOf": "2026-11-10",
+  "positioning": {
+    "text": "Geisinger describes itself as providing care for its neighbors since 1915 across 45 counties of central and northeastern Pennsylvania, and calls its Proven portfolio the cornerstone of its value-based care.",
+    "quote": "Providing world-class care for our neighbors since 1915.",
+    "evidence": [
+      {
+        "url": "https://www.geisinger.org/about-geisinger",
+        "title": "About us",
+        "publisher": "Geisinger",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "Across 45 counties of central and northeastern Pennsylvania."
+      },
+      {
+        "url": "https://www.geisinger.org/about-geisinger/what-we-do",
+        "title": "What We Do | Geisinger",
+        "publisher": "Geisinger",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "is the cornerstone of our value-based care"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "program",
+      "text": "Geisinger's Fresh Food Farmacy page presents the program as using food as medicine for diet-responsive conditions such as Type 2 diabetes, giving patients and their households enough food for 10 meals a week.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/freshfoodfarmacy",
+          "title": "Fresh Food Farmacy | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Using food as medicine to manage — and prevent — diet-responsive conditions"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "program",
+      "text": "The MyCode Community Health Initiative, Geisinger's DNA sequencing research program, says on its sign-up page that more than 370,000 people have signed up (the page gives no date for the figure).",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.edu/gchs/research/mycode",
+          "title": "Join MyCode | Geisinger College of Health Sciences",
+          "publisher": "Geisinger College of Health Sciences",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "More than 370,000 people have already signed up."
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "content",
+      "text": "Geisinger's Health and Wellness hub groups wellness articles, classes and events, two magazines, patient stories and a sign-up for the Balance eNewsletter; its article library showed 573 articles on 2026-11-10, the newest dated Oct. 23, 2026.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/health-and-wellness",
+          "title": "Health and Wellness | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Subscribe to the Balance eNewsletter"
+        },
+        {
+          "url": "https://www.geisinger.org/health-and-wellness/wellness-articles",
+          "title": "Health and Wellness Articles | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Read the latest or search by topic."
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "content",
+      "text": "PA Health is Geisinger's quarterly wellness magazine, offered by free subscription in print by mail, as a PDF by email, or both.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/health-wellness/pa-health-magazine",
+          "title": "PA Health Magazine | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Read inspiring stories about your neighbors' medical triumphs."
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "content",
+      "text": "Geisinger's Podcasts page showed one series on 2026-11-10, Journeys to Medicine (medical student experiences, from Geisinger Commonwealth), and the Apple Podcasts listing for Geisinger's #LifeAtGeisinger showed 14 episodes with the latest dated 11/16/2021.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/podcasts",
+          "title": "Podcasts | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Find podcast series to help you live a healthier life."
+        },
+        {
+          "url": "https://podcasts.apple.com/us/podcast/lifeatgeisinger/id1529618390",
+          "title": "#LifeAtGeisinger",
+          "publisher": "Apple Podcasts",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "The #LifeAtGeisinger podcast features unscripted conversations with our Geisinger family and outside experts."
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "category": "program",
+      "text": "Geisinger promotes its patient portal, MyGeisinger (reached on mobile through the MyChart app), under the headline \"A convenient way to manage your care\", listing appointment scheduling, test results, prescription renewals and messaging the care team.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/mygeisinger",
+          "title": "MyGeisinger – Patient Portal | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "A convenient way to manage your care"
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "category": "program",
+      "text": "Hernando Ruiz-Jimenez became Geisinger's chief marketing and communications officer in January 2025 and told Becker's that digital experience is \"table stakes\" and that marketing owns the member and patient portals.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/why-digital-experience-is-table-stakes-for-geisingers-new-marketing-chief",
+          "title": "Digital experience is 'table stakes' for Geisinger's new marketing chief",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-02-13",
+          "accessed": "2026-11-10",
+          "quote": "We have ownership, in marketing, of member and patient portals."
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "category": "recognition",
+      "text": "In November 2025 Geisinger announced it was a CHIME Most Wired recipient for the sixth consecutive year, with level 10 certification in the ambulatory survey and level 9 in acute care.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/about-geisinger/news-and-media/news-releases/2025/11/17/18/19/geisinger-recognized-for-digital-health-achievement-as-2025-most-wired-survey",
+          "title": "Geisinger recognized for digital health achievement as 2025 Most Wired Survey Recipient for sixth consecutive year",
+          "publisher": "Geisinger",
+          "published": "2025-11-17",
+          "accessed": "2026-11-10",
+          "quote": "level 10 certification, the highest recognition, in the ambulatory survey"
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "category": "program",
+      "text": "Risant Health, created by Kaiser Foundation Hospitals in 2023, completed its acquisition of Geisinger on April 2, 2024, and Geisinger kept its name; its marketing chief described it in 2025 as a standalone brand.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/about-geisinger/news-and-media/news-releases/2024/04/02/15/07/risant-health-completes-acquisition-of-geisinger",
+          "title": "Risant Health completes acquisition of Geisinger",
+          "publisher": "Geisinger",
+          "published": "2024-04-02",
+          "accessed": "2026-11-10",
+          "quote": "Geisinger will maintain its name and mission"
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/why-digital-experience-is-table-stakes-for-geisingers-new-marketing-chief",
+          "title": "Digital experience is 'table stakes' for Geisinger's new marketing chief",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-02-13",
+          "accessed": "2026-11-10",
+          "quote": "Geisinger is a standalone brand."
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "category": "program",
+      "text": "Geisinger's Classes and Events page says it hosts classes, events, screenings and support groups year-round, virtual and in person, throughout central and northeastern Pennsylvania.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/health-wellness/classes-events",
+          "title": "Classes and Events | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Learn, connect and take charge of your health with classes, support groups and community events."
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/GeisingerHealth/",
+      "note": "Linked from the footer of Geisinger's About page; the Facebook page itself could not be opened by the research tool, so no follower count is recorded.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/about-geisinger",
+          "title": "About us",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/geisingerhealth",
+      "note": "Linked from the footer of Geisinger's About page; no follower count recorded.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/about-geisinger",
+          "title": "About us",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/geisinger/",
+      "note": "Linked from the footer of Geisinger's About page; no follower count recorded.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/about-geisinger",
+          "title": "About us",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/geisingerhealth",
+      "note": "Linked from Geisinger's News & Media page; no follower count recorded.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/about-geisinger/news-and-media",
+          "title": "News & Media - Resources for Media | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UC8ZVDJGuyxXQU5bcuDOc1rg",
+      "note": "Channel name shown as Geisinger, handle @GeisingerHealth; the subscriber count was not visible to the research tool on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/channel/UC8ZVDJGuyxXQU5bcuDOc1rg",
+          "title": "Geisinger (YouTube channel)",
+          "publisher": "YouTube",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.geisinger.org/about-geisinger",
+          "title": "About us",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Health and Wellness hub (articles, Balance eNewsletter)",
+      "url": "https://www.geisinger.org/health-and-wellness",
+      "note": "Article library showed 573 articles on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/health-and-wellness",
+          "title": "Health and Wellness | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "PA Health magazine",
+      "url": "https://www.geisinger.org/health-wellness/pa-health-magazine",
+      "note": "Quarterly; print by mail or PDF by email.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/health-wellness/pa-health-magazine",
+          "title": "PA Health Magazine | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Podcasts",
+      "url": "https://www.geisinger.org/podcasts",
+      "note": "One series shown on 2026-11-10: Journeys to Medicine.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/podcasts",
+          "title": "Podcasts | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "MyGeisinger patient portal",
+      "url": "https://www.geisinger.org/mygeisinger",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/mygeisinger",
+          "title": "MyGeisinger – Patient Portal | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "News & Media (newsroom)",
+      "url": "https://www.geisinger.org/about-geisinger/news-and-media",
+      "note": "News releases, media relations contact, and footage, photography and logos for media.",
+      "evidence": [
+        {
+          "url": "https://www.geisinger.org/about-geisinger/news-and-media",
+          "title": "News & Media - Resources for Media | Geisinger",
+          "publisher": "Geisinger",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "Named programs with their own public pages, one of them carrying a participant figure, give the brand concrete stories that a reader can check.",
+        "basedOn": ["f1", "f2"]
+      },
+      {
+        "text": "Owned content reaches people in several formats: a searchable article library, a monthly e-newsletter and a quarterly magazine available in print.",
+        "basedOn": ["f3", "f4"]
+      },
+      {
+        "text": "Marketing owns the patient and member portals, which lets the portal experience and the marketing message be managed together.",
+        "basedOn": ["f6", "f7"]
+      },
+      {
+        "text": "Repeated outside recognition for digital health gives the marketing team a third-party proof point for digital claims.",
+        "basedOn": ["f8"]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "As of 2026-11-10 the Podcasts page showed a single series, focused on medical student experiences, and the #LifeAtGeisinger listing showed no episode after 11/16/2021.",
+        "basedOn": ["f5"]
+      }
+    ],
+    "opportunitiesForUpmc": [
+      {
+        "text": "Check which UPMC community programs have a dedicated public page with a current participation figure, the way Fresh Food Farmacy and MyCode do.",
+        "basedOn": ["f1", "f2"]
+      },
+      {
+        "text": "A patient-facing podcast is open ground in this comparison, since the series Geisinger lists is aimed at medical students.",
+        "basedOn": ["f5"]
+      },
+      {
+        "text": "Compare how UPMC positions its own portal in marketing against a peer whose marketing chief treats portal adoption as a marketing responsibility.",
+        "basedOn": ["f6", "f7"]
+      },
+      {
+        "text": "Geisinger keeps its own name inside Risant Health, so competitive tracking in Pennsylvania should watch Geisinger-branded and Risant-related messaging together.",
+        "basedOn": ["f9"]
+      }
+    ]
+  }
+}

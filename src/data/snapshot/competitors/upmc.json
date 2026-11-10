@@ -1,0 +1,468 @@
+{
+  "id": "upmc",
+  "name": "UPMC",
+  "asOf": "2026-11-10",
+  "positioning": {
+    "text": "UPMC describes itself as a Pittsburgh-headquartered health care provider and insurer and a global leader in research, treatments and clinical care. Its facts page lists more than 40 hospitals, 800 outpatient sites, 100,000 employees and more than four million insurance members. Its brand line is 'Life Changing Medicine'.",
+    "quote": "Headquartered in Pittsburgh, Pennsylvania, UPMC is a world-renowned health care provider and insurer.",
+    "evidence": [
+      {
+        "url": "https://www.upmc.com/about",
+        "title": "About Us | UPMC | Life Changing Medicine",
+        "publisher": "UPMC",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "Headquartered in Pittsburgh, Pennsylvania, UPMC is a world-renowned health care provider and insurer."
+      },
+      {
+        "url": "https://www.upmc.com/about/facts/numbers",
+        "title": "By the Numbers: UPMC Facts and Figures",
+        "publisher": "UPMC",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "More than four million members covered by UPMC Insurance Services products."
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "content",
+      "text": "UPMC HealthBeat is described by UPMC as its blog for health and wellness information; its editorial policy says a team of writers produces the content and each article is reviewed by a medical expert in the topic.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/healthbeat/about",
+          "title": "Editorial Policy | UPMC HealthBeat",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "UPMC HealthBeat is UPMC's blog for health and wellness information."
+        },
+        {
+          "url": "https://www.upmc.com/healthbeat/about",
+          "title": "Editorial Policy | UPMC HealthBeat",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Each article is reviewed by a medical expert who specializes in the given topic."
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "channel",
+      "text": "The HealthBeat home page offers an email newsletter sign-up ('Never Miss a Beat') and a sign-up for health tips by text message, and organizes articles under Living & Wellness, Health Topics A-Z and UPMC Stories.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/healthbeat",
+          "title": "HealthBeat",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "UPMC HealthBeat is the publishing website for UPMC, an integrated health care system based in Pittsburgh."
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "content",
+      "text": "UPMC's podcasts page lists five shows: The UPMC Tele-Town Hall Podcast, UPMC HealthBeat Podcast, Psychiatry Advances (for mental health professionals), That's Pediatrics (UPMC Children's Hospital of Pittsburgh) and Healthier You (UPMC experts in Central Pennsylvania).",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/about/podcasts",
+          "title": "Healthcare Podcasts – Health and Wellness Insights | UPMC",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Our guests discuss health and wellness, chronic disease, medical advancements — and much more."
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "metric",
+      "text": "The Apple Podcasts listing for the UPMC HealthBeat Podcast, as shown on 2026-11-10, gave 85 episodes, a semimonthly schedule, a latest episode dated 06/23/2024 ('Help with Your Headaches') and a rating of 4.5 out of 5 from 2 ratings.",
+      "evidence": [
+        {
+          "url": "https://podcasts.apple.com/us/podcast/upmc-healthbeat-podcast/id1517475489",
+          "title": "UPMC HealthBeat Podcast",
+          "publisher": "Apple Podcasts",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "program",
+      "text": "MyUPMC is UPMC's patient portal, 'powered by MyChart', where patients can book appointments and virtual visits, see test results and manage bills; a MyUPMC app is offered on the Apple App Store and Google Play.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/patients-visitors/patient-info/myupmc",
+          "title": "MyUPMC Patient Portal",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "MyUPMC patient portal, powered by MyChart, offers secure access to your health information."
+        },
+        {
+          "url": "https://www.upmc.com/about/apps",
+          "title": "UPMC Mobile Apps for Android and iOS Devices",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "category": "metric",
+      "text": "UPMC Enterprises reported on June 29, 2020 that MyUPMC video visits rose from an average of 20 to 30 per day before the pandemic to 4,000 to 5,000 a day, with a 35% increase in active users in March 2020 compared with March 2019.",
+      "evidence": [
+        {
+          "url": "https://enterprises.upmc.com/?p=7690",
+          "title": "MyUPMC experiences major jump in video visits as patients move to online care",
+          "publisher": "UPMC Enterprises",
+          "published": "2020-06-29",
+          "accessed": "2026-11-10",
+          "quote": "the daily average has shot up to 4,000 to 5,000 a day."
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "category": "campaign",
+      "text": "UPMC's brand line is 'Life Changing Medicine'. Becker's reported on October 21, 2010 that the tagline was introduced with a $16 million advertising campaign of newspaper and magazine ads, TV ads and a modified logo; a current 'Life Changing Is' campaign page on upmc.com uses the same line.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/upmc-unleashes-new-16m-ad-campaign/",
+          "title": "UPMC Unleashes New $16M Ad Campaign",
+          "publisher": "Becker's Hospital Review",
+          "published": "2010-10-21",
+          "accessed": "2026-11-10",
+          "quote": "full-page ads in newspapers and magazines, TV ads, a modified logo"
+        },
+        {
+          "url": "https://www.upmc.com/campaigns/life-changing-is",
+          "title": "Life Changing Is | UPMC",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Because when it changes real lives and whole communities for the better, that's when we call it Life Changing Medicine."
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "category": "program",
+      "text": "PR Daily reported on March 5, 2026 that UPMC runs a patient-creator program, built about three years earlier, in which a typical partnership includes a post on the creator's channel with a collaboration tag, rights for UPMC to reuse the content (including on YouTube Shorts and TikTok) and two weeks of paid amplification, mostly on Meta platforms; some posts drew as many as 200 shares.",
+      "evidence": [
+        {
+          "url": "https://www.prdaily.com/inside-a-healthcare-influencer-strategy-built-on-patient-voices/",
+          "title": "Inside a healthcare influencer strategy built on patient voices",
+          "publisher": "PR Daily",
+          "published": "2026-03-05",
+          "accessed": "2026-11-10",
+          "quote": "So we built it from nothing and really began thinking about how to leverage real peoples' experiences."
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "category": "channel",
+      "text": "The footer of upmc.com links to UPMC accounts on Facebook, Instagram, LinkedIn, Pinterest, X/Twitter, YouTube and TikTok; the Instagram and TikTok accounts use the handle 'upmchealthbeat'. The UPMC newsroom also lists a separate UPMC News account on X.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/about",
+          "title": "About Us | UPMC | Life Changing Medicine",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.upmc.com/media",
+          "title": "UPMC/Pitt Health Sciences Newsroom | Pittsburgh, PA",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Read news releases, blogs and tweets from UPMC and the University of Pittsburgh Schools of the Health Sciences."
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "category": "metric",
+      "text": "UPMC does not appear in Becker's June 2026 audit of the five most-followed health systems on LinkedIn, X, Instagram, TikTok or YouTube, where the lowest counts listed were 511,000 (LinkedIn), 369,400 (X), 99,000 (Instagram), 69,800 (TikTok) and 254,000 subscribers (YouTube). Becker's notes the list is not exhaustive.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/12-most-followed-health-systems-on-social-media/",
+          "title": "12 most-followed health systems on social media",
+          "publisher": "Becker's Hospital Review",
+          "published": "2026-06-04",
+          "accessed": "2026-11-10",
+          "quote": "Houston Methodist: 69,800 followers"
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "Website (About UPMC)",
+      "url": "https://www.upmc.com/about",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/about",
+          "title": "About Us | UPMC | Life Changing Medicine",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "UPMC HealthBeat (content hub)",
+      "url": "https://www.upmc.com/healthbeat",
+      "note": "Email newsletter and text-message sign-ups on the page.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/healthbeat",
+          "title": "HealthBeat",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "UPMC HealthBeat is the publishing website for UPMC, an integrated health care system based in Pittsburgh."
+        }
+      ]
+    },
+    {
+      "name": "UPMC/Pitt Health Sciences Newsroom",
+      "url": "https://www.upmc.com/media",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/media",
+          "title": "UPMC/Pitt Health Sciences Newsroom | Pittsburgh, PA",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Read news releases, blogs and tweets from UPMC and the University of Pittsburgh Schools of the Health Sciences."
+        }
+      ]
+    },
+    {
+      "name": "Podcasts",
+      "url": "https://www.upmc.com/about/podcasts",
+      "note": "Five shows listed on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/about/podcasts",
+          "title": "Healthcare Podcasts – Health and Wellness Insights | UPMC",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Our guests discuss health and wellness, chronic disease, medical advancements — and much more."
+        }
+      ]
+    },
+    {
+      "name": "UPMC HealthBeat Podcast (Apple Podcasts)",
+      "url": "https://podcasts.apple.com/us/podcast/upmc-healthbeat-podcast/id1517475489",
+      "note": "Shown as 85 episodes, latest episode dated 06/23/2024, on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://podcasts.apple.com/us/podcast/upmc-healthbeat-podcast/id1517475489",
+          "title": "UPMC HealthBeat Podcast",
+          "publisher": "Apple Podcasts",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "MyUPMC patient portal and app",
+      "url": "https://www.upmc.com/patients-visitors/patient-info/myupmc",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/patients-visitors/patient-info/myupmc",
+          "title": "MyUPMC Patient Portal",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "MyUPMC patient portal, powered by MyChart, offers secure access to your health information."
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/user/upmc/",
+      "note": "Channel page shows the name UPMC and the handle @upmc; no subscriber count was shown in the fetched page on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/user/upmc/",
+          "title": "UPMC (YouTube channel, handle @upmc)",
+          "publisher": "YouTube",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.upmc.com/about",
+          "title": "About Us | UPMC | Life Changing Medicine",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/upmc/",
+      "note": "Linked from the footer of upmc.com/about on 2026-11-10. The platform page blocks automated fetching and was not opened, so the follower count is unknown.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/about",
+          "title": "About Us | UPMC | Life Changing Medicine",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Instagram (UPMC HealthBeat)",
+      "url": "https://www.instagram.com/upmchealthbeat/",
+      "note": "Linked from the footer of upmc.com/about on 2026-11-10. The platform page blocks automated fetching and was not opened, so the follower count is unknown.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/about",
+          "title": "About Us | UPMC | Life Changing Medicine",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "TikTok (UPMC HealthBeat)",
+      "url": "https://www.tiktok.com/@upmchealthbeat",
+      "note": "Linked from the footer of upmc.com/about on 2026-11-10. The platform page blocks automated fetching and was not opened, so the follower count is unknown.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/about",
+          "title": "About Us | UPMC | Life Changing Medicine",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/upmc/",
+      "note": "Linked from the footer of upmc.com/about on 2026-11-10. The platform page blocks automated fetching and was not opened, so the follower count is unknown.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/about",
+          "title": "About Us | UPMC | Life Changing Medicine",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "X/Twitter",
+      "url": "https://twitter.com/upmc/",
+      "note": "Linked from the footer of upmc.com/about on 2026-11-10. The platform page was not opened, so the follower count is unknown.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/about",
+          "title": "About Us | UPMC | Life Changing Medicine",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "X (UPMC News)",
+      "url": "https://x.com/UPMCnews",
+      "note": "Listed under 'Follow UPMC News' on the newsroom page on 2026-11-10. The platform page blocks automated fetching and was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/media",
+          "title": "UPMC/Pitt Health Sciences Newsroom | Pittsburgh, PA",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Read news releases, blogs and tweets from UPMC and the University of Pittsburgh Schools of the Health Sciences."
+        }
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/upmc/",
+      "note": "Linked from the footer of upmc.com/about on 2026-11-10. The platform page blocks automated fetching and was not opened, so the follower count is unknown.",
+      "evidence": [
+        {
+          "url": "https://www.upmc.com/about",
+          "title": "About Us | UPMC | Life Changing Medicine",
+          "publisher": "UPMC",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "An owned content hub with a published editorial policy (written by staff writers, reviewed by clinicians) and its own email and text sign-ups, so UPMC can reach readers without relying on a social platform.",
+        "basedOn": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "text": "The MyUPMC portal and app put scheduling, virtual visits, results and billing in one place, and the 2020 figures show the service absorbing a very large jump in video visits.",
+        "basedOn": [
+          "f5",
+          "f6"
+        ]
+      },
+      {
+        "text": "One brand line in use since 2010 gives campaigns a consistent frame, and the patient-creator program supplies first-person stories that can be reused in short-form video.",
+        "basedOn": [
+          "f7",
+          "f8"
+        ]
+      },
+      {
+        "text": "The podcast line-up covers different audiences, from general health topics to a show for mental health professionals and a regional series.",
+        "basedOn": [
+          "f3"
+        ]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "The UPMC HealthBeat Podcast looked inactive on its Apple Podcasts listing: the most recent episode shown on 2026-11-10 was dated 06/23/2024.",
+        "basedOn": [
+          "f4"
+        ]
+      },
+      {
+        "text": "UPMC is absent from Becker's June 2026 top-five follower lists on all five platforms audited; its own follower counts could not be read for this snapshot because the platform pages block automated fetching.",
+        "basedOn": [
+          "f10",
+          "f9"
+        ]
+      },
+      {
+        "text": "No current audience figures for HealthBeat or MyUPMC were found on the UPMC pages opened for this snapshot; the newest usage figures found date from June 2020.",
+        "basedOn": [
+          "f1",
+          "f6"
+        ]
+      }
+    ]
+  }
+}

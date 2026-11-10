@@ -1,0 +1,515 @@
+[
+  {
+    "id": "ai-chatbots",
+    "topic": "AI chatbots for patient engagement",
+    "asOf": "2026-11-10",
+    "summary": {
+      "text": "About a third (32%) of U.S. adults said they had turned to AI chatbots for health information in the past year, in a KFF poll fielded February 24 to March 2, 2026. Health systems are putting their own chat and voice agents in front of scheduling, prescription renewals, billing questions and portal messages.",
+      "evidence": [
+        {
+          "url": "https://www.kff.org/health-information-trust/poll-1-in-3-adults-are-turning-to-ai-chatbots-for-health-information-equaling-the-share-who-use-social-media-for-health/",
+          "title": "Poll: 1 in 3 Adults Are Turning to AI Chatbots for Health Information, Equaling the Share Who Use Social Media for Health",
+          "publisher": "KFF",
+          "published": "2026-03-25",
+          "accessed": "2026-11-10",
+          "quote": "About a third (32%) of adults nationally say they have turned to artificial intelligence (AI) chatbots in the past year"
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/sutter-health-adopts-ai-agents-for-patient-self-service",
+          "title": "Sutter Health adopts AI agents for patient self-service",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-09-17",
+          "accessed": "2026-11-10",
+          "quote": "deploy AI agents across voice, chat and SMS"
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-health/how-providence-intercepts-mychart-messages/",
+          "title": "How Providence 'intercepts' MyChart messages",
+          "publisher": "Becker's Hospital Review",
+          "published": "2024-11-11",
+          "accessed": "2026-11-10",
+          "quote": "deflected 30% of administrative messages in MyChart"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "text": "Providence: patients usually reach its navigation platform through Grace, the system's AI chatbot. Becker's reported on November 11, 2024 that the platform had deflected 30% of administrative messages in MyChart and had about 150,000 active users per month.",
+        "evidence": [
+          {
+            "url": "https://www.beckershospitalreview.com/digital-health/how-providence-intercepts-mychart-messages/",
+            "title": "How Providence 'intercepts' MyChart messages",
+            "publisher": "Becker's Hospital Review",
+            "published": "2024-11-11",
+            "accessed": "2026-11-10",
+            "quote": "deflected 30% of administrative messages in MyChart"
+          },
+          {
+            "url": "https://blog.providence.org/blog/digital-in-action-improving-patient-navigation-with-grace",
+            "title": "Digital in action: Improving patient navigation with Grace",
+            "publisher": "Providence",
+            "published": "2024-05-31",
+            "accessed": "2026-11-10"
+          }
+        ]
+      },
+      {
+        "text": "Intermountain Health: its contact center handles about 260,000 calls a month, and the system wants its AI voice assistant to offer self-service for 20% to 30% of them, mainly self-scheduling (Becker's, September 17, 2026). This is a stated target, not a measured result.",
+        "evidence": [
+          {
+            "url": "https://www.beckershospitalreview.com/digital-marketing/intermountain-wants-ai-to-handle-30-of-its-260k-monthly-patient-calls/",
+            "title": "Intermountain wants AI to handle 30% of its 260K monthly patient calls",
+            "publisher": "Becker's Hospital Review",
+            "published": "2026-09-17",
+            "accessed": "2026-11-10",
+            "quote": "offer self-service for upwards of 20% to 30% of those"
+          }
+        ]
+      },
+      {
+        "text": "Nebraska Medicine: its director of patient contact services reported a 40% reduction in calls requiring human intervention, from 13,000 to 8,000 weekly calls, after deploying AI agents from ActiumHealth (Healthcare IT News; the page text showed no publication date).",
+        "evidence": [
+          {
+            "url": "https://www.healthcareitnews.com/news/nebraska-medicine-ai-means-40-fewer-calls-need-human-intervention",
+            "title": "Nebraska Medicine: AI means 40% fewer calls need human intervention (headline as in the URL; the fetched page text did not show a headline or date)",
+            "publisher": "Healthcare IT News",
+            "published": null,
+            "accessed": "2026-11-10",
+            "quote": "We experienced a 40% reduction in calls requiring human intervention, dropping from 13,000 to 8,000 weekly calls"
+          }
+        ]
+      },
+      {
+        "text": "Sutter Health: Becker's reported on September 17, 2025 that Sutter would deploy Hyro AI agents across voice, chat and SMS for tasks such as booking appointments, renewing prescriptions and answering billing questions.",
+        "evidence": [
+          {
+            "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/sutter-health-adopts-ai-agents-for-patient-self-service",
+            "title": "Sutter Health adopts AI agents for patient self-service",
+            "publisher": "Becker's Hospital Review",
+            "published": "2025-09-17",
+            "accessed": "2026-11-10",
+            "quote": "deploy AI agents across voice, chat and SMS"
+          }
+        ]
+      }
+    ],
+    "channel": "Marketing Technology",
+    "analysis": {
+      "relevance": "HIGH",
+      "effort": "Strategic Initiative",
+      "note": "The published results found are reports from single systems, some of them targets and not outcomes. No industry-wide benchmark was found.",
+      "recommendation": "Start with administrative tasks (scheduling, billing, routing portal messages), where peers report measurable deflection, before any symptom guidance. Define the success metric up front, since the public numbers measure different things (messages deflected, calls needing a human, self-service share).",
+      "challenges": [
+        "Privacy and compliance review for patient conversations with an AI agent",
+        "Peer results are single-system or vendor-reported and are not comparable with each other",
+        "Integration with the EHR, the patient portal and contact-center systems"
+      ]
+    }
+  },
+  {
+    "id": "short-form-video",
+    "topic": "Short-form video for health education",
+    "asOf": "2026-11-10",
+    "summary": {
+      "text": "Pew Research Center reported on March 2, 2026 that 37% of U.S. adults say they use TikTok, up from 21% in 2021, including 63% of adults under 30. In a Becker's audit of platform counts in June 2026, St. Jude Children's Research Hospital led TikTok with 780,100 followers and the next system listed, Mayo Clinic, had 167,300.",
+      "evidence": [
+        {
+          "url": "https://www.pewresearch.org/short-reads/2026/03/02/8-facts-about-americans-and-tiktok/",
+          "title": "8 facts about Americans and TikTok",
+          "publisher": "Pew Research Center",
+          "published": "2026-03-02",
+          "accessed": "2026-11-10",
+          "quote": "About four-in-ten U.S. adults (37%) say they use TikTok, up from 21% in 2021."
+        },
+        {
+          "url": "https://www.pewresearch.org/short-reads/2026/03/02/8-facts-about-americans-and-tiktok/",
+          "title": "8 facts about Americans and TikTok",
+          "publisher": "Pew Research Center",
+          "published": "2026-03-02",
+          "accessed": "2026-11-10",
+          "quote": "About six-in-ten adults under 30 (63%) say they’re on the platform, compared with smaller shares of older adults."
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/12-most-followed-health-systems-on-social-media/",
+          "title": "12 most-followed health systems on social media",
+          "publisher": "Becker's Hospital Review",
+          "published": "2026-06-04",
+          "accessed": "2026-11-10",
+          "quote": "St. Jude Children's Research Hospital: 780,100 followers"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "text": "Cleveland Clinic: 92,000 TikTok followers in Becker's June 2026 audit, third among the systems listed. Its chief marketing and communications officer told Becker's in January 2025 that TikTok had been a strong performer, especially for younger demographics, and that growth was strongest on TikTok and Instagram.",
+        "evidence": [
+          {
+            "url": "https://www.beckershospitalreview.com/digital-marketing/12-most-followed-health-systems-on-social-media/",
+            "title": "12 most-followed health systems on social media",
+            "publisher": "Becker's Hospital Review",
+            "published": "2026-06-04",
+            "accessed": "2026-11-10",
+            "quote": "Cleveland Clinic: 92,000 followers"
+          },
+          {
+            "url": "https://www.beckershospitalreview.com/digital-marketing/generative-ai-tiktok-marketing-at-cleveland-clinic-in-25",
+            "title": "Generative AI, TikTok: Marketing at Cleveland Clinic in '25",
+            "publisher": "Becker's Hospital Review",
+            "published": "2025-01-16",
+            "accessed": "2026-11-10",
+            "quote": "TikTok has been a strong performer, especially for younger demographics seeking advice."
+          }
+        ]
+      },
+      {
+        "text": "Houston Methodist: 69,800 TikTok followers in the same June 2026 audit, fifth among the systems listed.",
+        "evidence": [
+          {
+            "url": "https://www.beckershospitalreview.com/digital-marketing/12-most-followed-health-systems-on-social-media/",
+            "title": "12 most-followed health systems on social media",
+            "publisher": "Becker's Hospital Review",
+            "published": "2026-06-04",
+            "accessed": "2026-11-10",
+            "quote": "Houston Methodist: 69,800 followers"
+          }
+        ]
+      },
+      {
+        "text": "Cleveland Clinic and TikTok: since October 10, 2023, U.S. users who search TikTok for mental health terms are directed to information from Cleveland Clinic and the National Institute of Mental Health; the feature was planned to cover 40 conditions.",
+        "evidence": [
+          {
+            "url": "https://newsroom.clevelandclinic.org/2023/10/10/helping-tiktok-users-access-accurate-information-on-mental-health-conditions",
+            "title": "Helping TikTok Users Access Accurate Information on Mental Health Conditions",
+            "publisher": "Cleveland Clinic Newsroom",
+            "published": "2023-10-10",
+            "accessed": "2026-11-10",
+            "quote": "Cleveland Clinic has teamed up with TikTok to help users find educational and accurate mental health content."
+          },
+          {
+            "url": "https://www.beckershospitalreview.com/digital-marketing/cleveland-clinic-tiktok-partner-on-search/",
+            "title": "Cleveland Clinic, TikTok partner on search",
+            "publisher": "Becker's Hospital Review",
+            "published": "2023-10-11",
+            "accessed": "2026-11-10",
+            "quote": "The feature will eventually cover 40 mental illnesses and neurological disorders."
+          }
+        ]
+      },
+      {
+        "text": "UPMC: PR Daily reported on March 5, 2026 that UPMC works with patient creators who already share their care stories; a typical partnership includes a post on the creator's channel, rights for UPMC to reuse the content (including on YouTube Shorts and TikTok) and two weeks of paid amplification.",
+        "evidence": [
+          {
+            "url": "https://www.prdaily.com/inside-a-healthcare-influencer-strategy-built-on-patient-voices/",
+            "title": "Inside a healthcare influencer strategy built on patient voices",
+            "publisher": "PR Daily",
+            "published": "2026-03-05",
+            "accessed": "2026-11-10",
+            "quote": "We just look for people who are sharing their authentic stories online with their communities."
+          }
+        ]
+      }
+    ],
+    "channel": "Content",
+    "analysis": {
+      "relevance": "HIGH",
+      "effort": "Medium",
+      "note": "Health-system followings on TikTok are small next to the platform's reach among U.S. adults.",
+      "recommendation": "Build on the existing patient-creator work with a small, regular series of clinician-reviewed short videos, and judge it on saves, shares and completion rather than follower count, since even the largest systems have modest TikTok followings.",
+      "challenges": [
+        "Clinician time and willingness to appear on camera",
+        "Speed of medical and compliance review for social content",
+        "Keeping simplified formats medically accurate"
+      ]
+    }
+  },
+  {
+    "id": "personalized-email",
+    "topic": "Personalized patient email journeys",
+    "asOf": "2026-11-10",
+    "summary": {
+      "text": "In a survey by Lirio and Sage Growth Partners reported by Fierce Healthcare (the page showed no date or sample size), about half of health care executives said their organizations struggle to personalize engagement content and 35% said they had yet to invest in AI tools for patient outreach.",
+      "evidence": [
+        {
+          "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/health-system-execs-bullish-automation-patient-outreach-back-office-ai",
+          "title": "Health system execs bullish on automation for patient outreach but back-office AI often prioritized",
+          "publisher": "Fierce Healthcare",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Among the surveyed executives, 35% said their organizations have yet to make investments in AI tools for patient outreach."
+        }
+      ]
+    },
+    "examples": [
+      {
+        "text": "Ochsner Health: a Slalom customer story (undated) says Ochsner uses Salesforce Marketing Cloud with consolidated patient data to send targeted messages to segmented patient groups, and reports a 35.15% email open rate and a 3.29% click rate.",
+        "evidence": [
+          {
+            "url": "https://www.slalom.com/us/en/customer-stories/ochsner-health",
+            "title": "Making healthcare more human with Salesforce (Ochsner Health customer story)",
+            "publisher": "Slalom",
+            "published": null,
+            "accessed": "2026-11-10",
+            "quote": "More personalized communications for patients at every stage of their journey with Ochsner"
+          }
+        ]
+      },
+      {
+        "text": "Kaiser Permanente: its online Personal Action Plan, launched in 2012, sends emails to members who are due for preventive care based on their last screenings and certain conditions; a Kaiser Permanente Southern California study found users were 8.8% more likely to get colorectal cancer screening and 9.1% more likely to get a mammogram than non-users (Healthcare IT News; the page text showed no publication date).",
+        "evidence": [
+          {
+            "url": "https://www.healthcareitnews.com/news/kaiser-online-tools-increase-likelihood-patients-will-receive-preventative-care",
+            "title": "Kaiser online tools increase likelihood patients will receive preventative care (headline as in the URL; the fetched page text did not show a headline or date)",
+            "publisher": "Healthcare IT News",
+            "published": null,
+            "accessed": "2026-11-10",
+            "quote": "It also sends emails to members if they're in need of preventative care based on their last appointments"
+          }
+        ]
+      },
+      {
+        "text": "Kaiser Permanente: a randomized trial emailed more than 3.6 million members in two regions between September and November 2024. Emails saying the flu vaccine protects the heart produced no clinically relevant difference in vaccination rates compared with the usual reminder (NEJM Evidence, reported August 30, 2025).",
+        "evidence": [
+          {
+            "url": "https://divisionofresearch.kaiserpermanente.org/email-flu-vaccine-protects-heart/",
+            "title": "Email reminders that the flu vaccine protects the heart did not increase vaccination rates in large U.S. study",
+            "publisher": "Kaiser Permanente Division of Research",
+            "published": "2025-08-30",
+            "accessed": "2026-11-10",
+            "quote": "more than 3.6 million patients in 2 Kaiser Permanente regions"
+          }
+        ]
+      }
+    ],
+    "channel": "Email",
+    "analysis": {
+      "relevance": "MEDIUM",
+      "effort": "Medium",
+      "note": "Public evidence for this trend is thin: the named results found are a vendor case study and Kaiser Permanente research, not an industry survey of email programs.",
+      "recommendation": "Treat personalization as something to test, not assume: start with one or two care-gap reminder journeys for consenting patients or members and run them against a plain reminder as control. The Kaiser trial shows that changing the message does not guarantee a lift.",
+      "challenges": [
+        "Few public, comparable benchmarks; most named results are vendor case studies",
+        "Joining health plan and provider data under privacy rules",
+        "Producing and reviewing tailored content at scale"
+      ]
+    }
+  },
+  {
+    "id": "local-seo",
+    "topic": "Local search, listings and online reviews",
+    "asOf": "2026-11-10",
+    "summary": {
+      "text": "In rater8's 2026 Patient Choice Report (992 U.S. adults, surveyed April 2026), 55% of patients said they start a provider search with some version of a '[specialty] near me' query, and three in four said they will not book with a doctor rated below 4.0 stars; 47% had used AI to research providers. The report is published by rater8 itself.",
+      "evidence": [
+        {
+          "url": "https://rater8.com/2026-patient-choice-report/",
+          "title": "2026 Patient Choice Report: How AI, Online Reviews, and Rising Standards Have Redrawn the Path to Care",
+          "publisher": "rater8",
+          "published": "2026-06-06",
+          "accessed": "2026-11-10",
+          "quote": "Three in four won’t book with a doctor rated below 4.0 stars"
+        },
+        {
+          "url": "https://www.techtarget.com/PatientEngagement/news/366643954/Almost-half-of-patients-use-AI-for-online-provider-search",
+          "title": "Almost half of patients use AI for online provider search",
+          "publisher": "TechTarget Patient Engagement",
+          "published": "2026-06-03",
+          "accessed": "2026-11-10",
+          "quote": "Three-quarters of patients won't consider a provider rated below 4.0 stars."
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/why-uhs-sent-1m-text-messages-in-2025/",
+          "title": "Why UHS sent 1M text messages in 2025",
+          "publisher": "Becker's Hospital Review",
+          "published": "2026-01-22",
+          "accessed": "2026-11-10",
+          "quote": "sent more than 1 million text messages to patients to solicit Google reviews"
+        },
+        {
+          "url": "https://birdeye.com/resources/case-studies/sutter-health/",
+          "title": "How Sutter Health Scaled Reputation Management Across 4,000+ Locations",
+          "publisher": "Birdeye",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Their listing management tools also make it easy to keep our business information consistent and optimized."
+        }
+      ]
+    },
+    "examples": [
+      {
+        "text": "Intermountain Health: after starting to ask patients for reviews by text message, its aggregate star rating rose from 3.7 to 4.5 and review volume rose 156% year over year, according to a Reputation report covered by Becker's on June 8, 2023; Reputation's own case study also describes listings optimization.",
+        "evidence": [
+          {
+            "url": "https://www.beckershospitalreview.com/digital-marketing/how-intermountain-health-revived-its-online-reputation-in-just-6-months/",
+            "title": "How Intermountain Health revived its online reputation in just 6 months",
+            "publisher": "Becker's Hospital Review",
+            "published": "2023-06-08",
+            "accessed": "2026-11-10",
+            "quote": "The health system boosted its standings on Google because of the increased engagement."
+          },
+          {
+            "url": "https://reputation.com/resources/customer-stories/intermountain-health",
+            "title": "Intermountain Health Triples Organic Leads, Increases Review Volume by 510% in One Year",
+            "publisher": "Reputation",
+            "published": null,
+            "accessed": "2026-11-10",
+            "quote": "a highly scalable SMS-based review request program"
+          }
+        ]
+      },
+      {
+        "text": "Universal Health Services: sent more than 1 million text messages in 2025 asking patients for Google reviews, received nearly 70,000 Google reviews that year, and answered reviews in an average of 12 hours (Becker's, January 22, 2026).",
+        "evidence": [
+          {
+            "url": "https://www.beckershospitalreview.com/digital-marketing/why-uhs-sent-1m-text-messages-in-2025/",
+            "title": "Why UHS sent 1M text messages in 2025",
+            "publisher": "Becker's Hospital Review",
+            "published": "2026-01-22",
+            "accessed": "2026-11-10",
+            "quote": "sent more than 1 million text messages to patients to solicit Google reviews"
+          }
+        ]
+      },
+      {
+        "text": "Sutter Health: a Birdeye case study (undated) says Sutter manages listings and reviews for more than 4,000 locations on Birdeye, and reports 35.4K new Google reviews and an average rating up from 4.7 to 4.8 over four months.",
+        "evidence": [
+          {
+            "url": "https://birdeye.com/resources/case-studies/sutter-health/",
+            "title": "How Sutter Health Scaled Reputation Management Across 4,000+ Locations",
+            "publisher": "Birdeye",
+            "published": null,
+            "accessed": "2026-11-10",
+            "quote": "Their listing management tools also make it easy to keep our business information consistent and optimized."
+          }
+        ]
+      }
+    ],
+    "channel": "Search",
+    "analysis": {
+      "relevance": "HIGH",
+      "effort": "Quick Win",
+      "note": "Read the rater8 figures as a vendor's own survey. The named health-system results found for this snapshot are about asking patients for reviews by text message and keeping listings consistent.",
+      "recommendation": "Audit location and provider listings for accuracy first, then pilot post-visit review requests by text at a few sites and set a response-time standard for replies, as UHS and Intermountain describe.",
+      "challenges": [
+        "Keeping hundreds of location and provider listings consistent",
+        "Responding to negative reviews without disclosing patient information",
+        "Most published results come from review-software vendors"
+      ]
+    }
+  },
+  {
+    "id": "telehealth-marketing",
+    "topic": "Marketing virtual care as an entry point",
+    "asOf": "2026-11-10",
+    "summary": {
+      "text": "Epic Research's study of 411 million primary care visits, published February 17, 2026, found telehealth fell from just over 8% of encounters in July 2022 to just under 6% by October 2025 and has stayed around 6-7% since 2023; adults aged 25 to 39 had rates above 10%.",
+      "evidence": [
+        {
+          "url": "https://epicresearch.org/articles/telehealth-use-for-primary-care-visits-has-stabilized-with-higher-use-in-metropolitan-areas-and-among-non-english-speakers",
+          "title": "Telehealth Use for Primary Care Visits Has Stabilized, with Higher Use in Metropolitan Areas and Among Non-English Speakers",
+          "publisher": "Epic Research",
+          "published": "2026-02-17",
+          "accessed": "2026-11-10",
+          "quote": "Since 2023, the overall telehealth share has remained around 6–7% of encounters."
+        },
+        {
+          "url": "https://www.healthcaredive.com/news/telehealth-use-primary-care-stabilizes-epic-research/812472/",
+          "title": "Telehealth use in primary care stabilizes: research",
+          "publisher": "Healthcare Dive",
+          "published": "2026-02-19",
+          "accessed": "2026-11-10",
+          "quote": "By October 2025, telehealth made up just under 6% of visits"
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/healthcare-information-technology/telehealth/jefferson-health-finds-9-of-new-patients-choosing-virtual-primary-care/",
+          "title": "Jefferson Health finds 9% of new patients choosing virtual primary care",
+          "publisher": "Becker's Hospital Review",
+          "published": "2026-03-09",
+          "accessed": "2026-11-10",
+          "quote": "About 9% of new primary care patients choose the virtual model, according to Dr. Flattau."
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/healthcare-information-technology/telehealth/rush-aims-for-amazon-like-healthcare-with-19-care-membership",
+          "title": "Rush aims for 'Amazon-like' healthcare with $19 care membership",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-08-01",
+          "accessed": "2026-11-10",
+          "quote": "includes 24/7 access to virtual urgent care and a dedicated personal assistant."
+        }
+      ]
+    },
+    "examples": [
+      {
+        "text": "Jefferson Health: every new primary care patient is asked whether they prefer a traditional or a virtual appointment; about 9% choose the virtual model, roughly 13% among patients under 45, and the program adds 300 to 500 new patients a month (Becker's, March 9, 2026).",
+        "evidence": [
+          {
+            "url": "https://www.beckershospitalreview.com/healthcare-information-technology/telehealth/jefferson-health-finds-9-of-new-patients-choosing-virtual-primary-care/",
+            "title": "Jefferson Health finds 9% of new patients choosing virtual primary care",
+            "publisher": "Becker's Hospital Review",
+            "published": "2026-03-09",
+            "accessed": "2026-11-10",
+            "quote": "About 9% of new primary care patients choose the virtual model, according to Dr. Flattau."
+          }
+        ]
+      },
+      {
+        "text": "Rush University System for Health: Rush Connect+ is a $19-per-month membership that includes 24/7 virtual urgent care and a personal assistant, and is available nationwide (Becker's, August 1, 2025).",
+        "evidence": [
+          {
+            "url": "https://www.beckershospitalreview.com/healthcare-information-technology/telehealth/rush-aims-for-amazon-like-healthcare-with-19-care-membership",
+            "title": "Rush aims for 'Amazon-like' healthcare with $19 care membership",
+            "publisher": "Becker's Hospital Review",
+            "published": "2025-08-01",
+            "accessed": "2026-11-10",
+            "quote": "includes 24/7 access to virtual urgent care and a dedicated personal assistant."
+          }
+        ]
+      },
+      {
+        "text": "Kaiser Permanente: launched a 'virtual-first' Virtual Plus health plan in Washington, effective January 1, 2021, that centers telehealth for nonurgent issues; in August 2022 the executive medical director of the Southern California Permanente Medical Group said about 38 percent of 'all of our ambulatory visits' were being done through telehealth.",
+        "evidence": [
+          {
+            "url": "https://www.healthcareitnews.com/news/kaiser-permanente-launches-virtual-first-health-plan-washington",
+            "title": "Kaiser Permanente launches 'virtual-first' health plan in Washington (headline as in search results; the fetched page text did not show a headline or date)",
+            "publisher": "Healthcare IT News",
+            "published": null,
+            "accessed": "2026-11-10",
+            "quote": "will center telehealth as a foundational modality of care for patients with nonurgent issues."
+          },
+          {
+            "url": "https://www.hcinnovationgroup.com/population-health-management/telehealth/article/21276136/kaiser-maintaining-virtual-visit-focus-beyond-pandemic",
+            "title": "Kaiser Maintaining Virtual Visit Focus Beyond Pandemic",
+            "publisher": "Healthcare Innovation",
+            "published": "2022-08-02",
+            "accessed": "2026-11-10",
+            "quote": "currently about 38 percent of all of our ambulatory visits are being done through telehealth."
+          }
+        ]
+      },
+      {
+        "text": "Amazon One Medical: introduced pay-per-visit telehealth for children ages 2 to 11, with message-based visits from $29 and video visits at $49, without requiring insurance or a membership (Becker's, October 16, 2025).",
+        "evidence": [
+          {
+            "url": "https://www.beckershospitalreview.com/disruptors/amazon-one-medical-debuts-telehealth-for-pediatric-care/",
+            "title": "Amazon One Medical debuts telehealth for pediatric care",
+            "publisher": "Becker's Hospital Review",
+            "published": "2025-10-16",
+            "accessed": "2026-11-10",
+            "quote": "introduced a pay-per-visit telehealth service for children ages 2 to 11."
+          }
+        ]
+      }
+    ],
+    "channel": "Paid",
+    "analysis": {
+      "relevance": "MEDIUM",
+      "effort": "Medium",
+      "note": "With overall use flat, the examples show systems packaging virtual care as a named product or offering it as a choice to every new patient.",
+      "recommendation": "Offer virtual care as an explicit choice at the point of booking, as Jefferson does, and aim promotion at the age groups that already use it most, rather than making it the lead message for every audience.",
+      "challenges": [
+        "Overall telehealth share is flat, so growth has to come from specific segments",
+        "Retail entrants compete on a visible up-front price",
+        "Reimbursement rules for virtual visits vary by payer"
+      ]
+    }
+  }
+]

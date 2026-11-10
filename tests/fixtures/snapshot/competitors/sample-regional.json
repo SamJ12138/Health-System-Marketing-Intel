@@ -1,0 +1,137 @@
+{
+  "id": "sample-regional",
+  "name": "Sample Regional Medical (fictional)",
+  "asOf": "2026-01-20",
+  "positioning": {
+    "text": "Sample Regional Medical (fictional) presents itself as a teaching hospital in an invented region.",
+    "evidence": [
+      {
+        "url": "https://example.com/fixture/sample-regional/about",
+        "title": "About Sample Regional (fictional page)",
+        "publisher": "Example Publisher (fictional)",
+        "published": "2026-01-15",
+        "accessed": "2026-01-20"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "content",
+      "text": "Fixture fact: it hosts an invented podcast called \"Rounds That Never Happened\".",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/sample-regional/podcast",
+          "title": "Podcast listing (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "metric",
+      "text": "Fixture fact: its invented annual report states 42 community events in 2025.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/sample-regional/annual-report",
+          "title": "Annual report 2025 (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "program",
+      "text": "Fixture fact: it offers an invented online second-opinion form.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/sample-regional/second-opinion",
+          "title": "Second opinion form (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": null,
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "channel",
+      "text": "Fixture fact: its social links page lists three invented accounts.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/sample-regional/social",
+          "title": "Social links (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "campaign",
+      "text": "Fixture fact: it ran an invented recruitment campaign for nurses in 2025.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/sample-regional/careers-campaign",
+          "title": "Careers campaign page (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2025-06-01",
+          "accessed": "2026-01-20"
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "Podcast",
+      "url": "https://example.com/fixture/sample-regional/podcast",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/sample-regional/podcast",
+          "title": "Podcast listing (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "Fixture analysis: audio content plus in-person events cover two different audiences.",
+        "basedOn": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "text": "Fixture analysis: the second-opinion form is a direct digital entry point.",
+        "basedOn": [
+          "f3"
+        ]
+      }
+    ],
+    "gaps": [],
+    "opportunitiesForUpmc": [
+      {
+        "text": "Fixture analysis: compare event calendars before planning regional outreach.",
+        "basedOn": [
+          "f2"
+        ]
+      },
+      {
+        "text": "Fixture analysis: review how the second-opinion form is promoted.",
+        "basedOn": [
+          "f3",
+          "f4"
+        ]
+      }
+    ]
+  }
+}

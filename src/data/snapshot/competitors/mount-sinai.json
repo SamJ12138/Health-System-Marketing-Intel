@@ -1,0 +1,446 @@
+{
+  "id": "mount-sinai",
+  "name": "Mount Sinai Health System",
+  "asOf": "2026-11-10",
+  "positioning": {
+    "text": "Mount Sinai Health System describes itself as an integrated health care system in New York; its mission statement pairs compassionate, coordinated patient care with advancing medicine through education, research and outreach in the diverse communities it serves.",
+    "quote": "to advance medicine through unrivaled education, research, and outreach in the many diverse communities we serve.",
+    "evidence": [
+      {
+        "url": "https://www.mountsinai.org/about/mission",
+        "title": "Mission (Mount Sinai Health System)",
+        "publisher": "Mount Sinai Health System",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "The mission of the Mount Sinai Health System is to provide compassionate patient care with seamless coordination"
+      },
+      {
+        "url": "https://www.mountsinai.org/about",
+        "title": "About the Mount Sinai Health System",
+        "publisher": "Mount Sinai Health System",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "The Mount Sinai Health System is an integrated health care system."
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "campaign",
+      "text": "Mount Sinai launched the \"We Find a Way\" brand and advertising campaign in June 2021, describing it as the largest single awareness campaign for the health system, running in national and regional print, television, radio and online media; the campaign landing page still presented \"We Find a Way\" when opened on 2026-11-10.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about/newsroom/2021/we-find-a-way-mount-sinai-launches-national-brand-and-advertising-campaign",
+          "title": "\"We Find a Way\": Mount Sinai Launches National Brand and Advertising Campaign",
+          "publisher": "Mount Sinai Health System",
+          "published": "2021-06-14",
+          "accessed": "2026-11-10",
+          "quote": "national and regional print, television, radio, and online media outlets."
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/mount-sinai-launches-ad-campaign-to-solidify-brand-identity",
+          "title": "Mount Sinai launches ad campaign to solidify brand identity",
+          "publisher": "Becker's Hospital Review",
+          "published": "2021-06-14",
+          "accessed": "2026-11-10",
+          "quote": "Regionally and nationally, the campaign is running in print, television, radio and online media outlets."
+        },
+        {
+          "url": "https://www.mountsinai.org/ad-campaign",
+          "title": "We Find a Way (campaign landing page)",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Explore the campaign below."
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "campaign",
+      "text": "In a September 2025 Becker's interview, Mount Sinai's chief marketing and communications officer David A. Feinberg described a recent campaign aimed at the \"sandwich generation\" of people caring for both young children and elderly parents.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/marketing-saves-lives-mount-sinai-highlights-care-research",
+          "title": "'Marketing saves lives': Mount Sinai highlights care, research",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-09-11",
+          "accessed": "2026-11-10",
+          "quote": "One recent marketing campaign focuses on the 'sandwich generation,' the large cohort of Americans, mostly female, caring for both young children and elderly parents."
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "metric",
+      "text": "Becker's reported on 2025-09-11 that the health system's app has over 2 million regular users.",
+      "evidence": [
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/marketing-saves-lives-mount-sinai-highlights-care-research",
+          "title": "'Marketing saves lives': Mount Sinai highlights care, research",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-09-11",
+          "accessed": "2026-11-10",
+          "quote": "over 2 million regular users on the health system's app"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "program",
+      "text": "The MyMountSinai app is presented as the gateway to Mount Sinai physicians, services and medical records, with appointment scheduling, virtual urgent care, virtual primary care and message-only care, and account creation or password reset through CLEAR.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about/mymountsinai",
+          "title": "MyMountSinai App",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Access virtual care including virtual urgent care, virtual primary care, and message only care"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "program",
+      "text": "A June 2024 Mount Sinai Today post describes a project to raise MyMountSinai usage among Mount Sinai patients in Central Harlem from 54 percent to 70 percent, working with community-based organizations.",
+      "evidence": [
+        {
+          "url": "https://health.mountsinai.org/blog/closing-the-disparity-in-patients-use-of-the-health-app-mymountsinai/",
+          "title": "Closing the Disparity in Patients' Use of the Health App MyMountSinai",
+          "publisher": "Mount Sinai Today (Mount Sinai Health System)",
+          "published": "2024-06-17",
+          "accessed": "2026-11-10",
+          "quote": "The goal is to increase Central Harlem Mount Sinai patients’ usage of MyMountSinai from 54 percent to 70 percent."
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "category": "content",
+      "text": "The Mount Sinai newsroom lists four podcasts (HERology, The Vitals, Road to Resilience, and Real, Smart People) and a films section; The Vitals is described as a video podcast and Road to Resilience has run since 2018.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about/newsroom",
+          "title": "Newsroom",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.mountsinai.org/about/newsroom/podcasts/vitals",
+          "title": "The Vitals",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Gain insights about health, science, and wellness with this groundbreaking video podcast"
+        },
+        {
+          "url": "https://www.mountsinai.org/about/newsroom/podcasts/road-resilience",
+          "title": "Road to Resilience",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "A podcast that brings you stories and insights to help you thrive in a challenging world."
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "category": "content",
+      "text": "Mount Sinai publishes a blog called Mount Sinai Today at health.mountsinai.org, with categories including Community, Education, Nursing, Research, Stories of Excellence and Your Health.",
+      "evidence": [
+        {
+          "url": "https://health.mountsinai.org/",
+          "title": "Mount Sinai Today | Delivering the latest in health, patient stories, and research",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Delivering the latest health information, patient stories, and research"
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "category": "campaign",
+      "text": "In August 2026 Mount Sinai announced its 14th year as official health care partner of the US Open Tennis Championships, with a \"Play Well, Stay Well\" campaign on digital and social channels and an interactive onsite booth where fans can create an animated AI tennis player avatar.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about/newsroom/2026/mount-sinai-returns-as-official-health-care-partner-of-the-us-open-tennis-championships",
+          "title": "Mount Sinai Returns as Official Health Care Partner of the US Open Tennis Championships",
+          "publisher": "Mount Sinai Health System",
+          "published": "2026-08-20",
+          "accessed": "2026-11-10",
+          "quote": "on full display via official digital and social media channels, sweepstakes, and giveaways all tournament long."
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "category": "program",
+      "text": "On 2024-11-25 Mount Sinai announced the opening of the Hamilton and Amabel James Center for Artificial Intelligence and Human Health, a 12-story, 65,000-square-foot facility, with its dean saying it is one of the first medical schools to establish a dedicated AI research center.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about/newsroom/2024/mount-sinai-opens-the-hamilton-and-amabel-james-center-for-artificial-intelligence-and-human-health-to-transform-health-care-by-spearheading-the-ai-revolution",
+          "title": "Mount Sinai Opens the Hamilton and Amabel James Center for Artificial Intelligence and Human Health to Transform Health Care by Spearheading the AI Revolution",
+          "publisher": "Mount Sinai Health System",
+          "published": "2024-11-25",
+          "accessed": "2026-11-10",
+          "quote": "we stand as one of the first medical schools to establish a dedicated AI research center."
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "category": "channel",
+      "text": "The Mount Sinai About page links to official accounts on LinkedIn, Facebook, X, YouTube, Instagram, Pinterest and TikTok.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about",
+          "title": "About the Mount Sinai Health System",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "Newsroom",
+      "url": "https://www.mountsinai.org/about/newsroom",
+      "note": "Press releases, In the News, specialty reports, podcasts and films sections.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about/newsroom",
+          "title": "Newsroom",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Mount Sinai Today (blog)",
+      "url": "https://health.mountsinai.org/",
+      "note": "Health information, patient stories and research.",
+      "evidence": [
+        {
+          "url": "https://health.mountsinai.org/",
+          "title": "Mount Sinai Today | Delivering the latest in health, patient stories, and research",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Podcasts",
+      "url": "https://www.mountsinai.org/about/newsroom/podcasts/vitals",
+      "note": "The Vitals (video podcast); the newsroom also lists HERology, Road to Resilience and Real, Smart People.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about/newsroom/podcasts/vitals",
+          "title": "The Vitals",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.mountsinai.org/about/newsroom",
+          "title": "Newsroom",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "MyMountSinai app",
+      "url": "https://www.mountsinai.org/about/mymountsinai",
+      "note": "Becker's reported over 2 million regular app users on 2025-09-11.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about/mymountsinai",
+          "title": "MyMountSinai App",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/marketing-saves-lives-mount-sinai-highlights-care-research",
+          "title": "'Marketing saves lives': Mount Sinai highlights care, research",
+          "publisher": "Becker's Hospital Review",
+          "published": "2025-09-11",
+          "accessed": "2026-11-10",
+          "quote": "over 2 million regular users on the health system's app"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/user/MountSinaiNY",
+      "note": "Channel name Mount Sinai Health System, handle @MountSinaiNYC. Subscriber count was not visible in the fetched page.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/user/MountSinaiNY",
+          "title": "Mount Sinai Health System - YouTube",
+          "publisher": "YouTube",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "The latest patient stories, breakthroughs, physician interviews, and news from the Mount Sinai Health System."
+        }
+      ]
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/mountsinainyc/",
+      "note": "Linked from the About page; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about",
+          "title": "About the Mount Sinai Health System",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@mountsinainyc",
+      "note": "Linked from the About page; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about",
+          "title": "About the Mount Sinai Health System",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/mountsinainyc",
+      "note": "Linked from the About page; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about",
+          "title": "About the Mount Sinai Health System",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/MountSinaiNYC",
+      "note": "Linked from the About page; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about",
+          "title": "About the Mount Sinai Health System",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/mountsinainyc",
+      "note": "Linked from the About page; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about",
+          "title": "About the Mount Sinai Health System",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/MountSinaiNYC/",
+      "note": "Linked from the About page; the account page itself was not opened.",
+      "evidence": [
+        {
+          "url": "https://www.mountsinai.org/about",
+          "title": "About the Mount Sinai Health System",
+          "publisher": "Mount Sinai Health System",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "One brand platform, \"We Find a Way\", runs from the 2021 launch to the campaign page seen in November 2026, which gives the brand a consistent line across years.",
+        "basedOn": [
+          "f1"
+        ]
+      },
+      {
+        "text": "The owned content mix is broad for a health system: a blog, four podcasts including a video podcast, and a films section sit alongside seven linked social accounts.",
+        "basedOn": [
+          "f6",
+          "f7",
+          "f10"
+        ]
+      },
+      {
+        "text": "The patient app is a large owned channel, with a published audience figure and virtual care built in.",
+        "basedOn": [
+          "f3",
+          "f4"
+        ]
+      },
+      {
+        "text": "The US Open partnership is used as a marketing platform with its own campaign name, social activity and an onsite activation, not only as a medical services role.",
+        "basedOn": [
+          "f8"
+        ]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "Mount Sinai's own June 2024 post reports uneven app adoption: MyMountSinai usage among its Central Harlem patients was 54 percent against a stated goal of 70 percent.",
+        "basedOn": [
+          "f5"
+        ]
+      }
+    ],
+    "opportunitiesForUpmc": [
+      {
+        "text": "Mount Sinai's marketing chief cites an app audience number in trade press; UPMC could decide whether publishing a comparable, dated figure for its own app supports its digital story.",
+        "basedOn": [
+          "f3"
+        ]
+      },
+      {
+        "text": "Mount Sinai ties app adoption to a named community with a numeric target; a similar neighborhood-level adoption goal would give UPMC a concrete digital equity story to tell.",
+        "basedOn": [
+          "f5"
+        ]
+      },
+      {
+        "text": "A recurring video podcast with clinicians is a format UPMC can benchmark its own expert content against.",
+        "basedOn": [
+          "f6"
+        ]
+      },
+      {
+        "text": "Sports and event partnerships can carry a named consumer campaign and a digital hook, as the US Open activation does; UPMC's existing sports relationships could be reviewed against that model.",
+        "basedOn": [
+          "f8"
+        ]
+      }
+    ]
+  }
+}

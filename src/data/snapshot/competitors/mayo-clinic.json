@@ -1,0 +1,490 @@
+{
+  "id": "mayo-clinic",
+  "name": "Mayo Clinic",
+  "asOf": "2026-11-10",
+  "positioning": {
+    "text": "Mayo Clinic states its primary value as putting the needs of the patient first and its mission as inspiring hope and promoting health through integrated clinical practice, education and research.",
+    "quote": "The needs of the patient come first.",
+    "evidence": [
+      {
+        "url": "https://www.mayoclinic.org/about-mayo-clinic/mission-values",
+        "title": "Mission and values - Mayo Clinic",
+        "publisher": "Mayo Clinic",
+        "published": null,
+        "accessed": "2026-11-10",
+        "quote": "Inspiring hope and promoting health through integrated clinical practice, education and research."
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "program",
+      "text": "Mayo Clinic Connect is an online patient and caregiver community that the site says is hosted and moderated by Mayo Clinic; its director wrote on Jan. 27, 2021 that the community had over 100,000 members, and the home page as opened on 2026-11-10 says \"thousands of patients and caregivers\" without a total.",
+      "evidence": [
+        {
+          "url": "https://connect.mayoclinic.org/",
+          "title": "Mayo Clinic Connect",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Hosted and moderated by Mayo Clinic."
+        },
+        {
+          "url": "https://connect.mayoclinic.org/comment/380187",
+          "title": "100K+ Members helping members improve their health | Mayo Clinic Connect",
+          "publisher": "Mayo Clinic",
+          "published": "2021-01-27",
+          "accessed": "2026-11-10",
+          "quote": "today over 100,000 members share their health journeys, goals and coping strategies"
+        },
+        {
+          "url": "https://connect.mayoclinic.org/blog/about-connect/",
+          "title": "About Connect: Who, What & Why Blog | Mayo Clinic Connect",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "metric",
+      "text": "Mayo Clinic's News Network reported on Dec. 19, 2023 that its YouTube channel, started in 2006, had recently surpassed 1 million subscribers.",
+      "evidence": [
+        {
+          "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-hits-milestone-of-1-million-youtube-subscribers/",
+          "title": "Mayo Clinic hits milestone of 1 million YouTube subscribers",
+          "publisher": "Mayo Clinic News Network",
+          "published": "2023-12-19",
+          "accessed": "2026-11-10",
+          "quote": "Mayo Clinic's YouTube channel recently surpassed 1 million subscribers."
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/mayo-clinic-hits-1-million-youtube-subscribers",
+          "title": "Mayo Clinic hits 1 million YouTube subscribers",
+          "publisher": "Becker's Hospital Review",
+          "published": "2023-12-20",
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "channel",
+      "text": "Mayo Clinic's staff publication In the Loop reported on Feb. 1, 2024 that its social media team had begun posting on TikTok earlier that month to reach a younger audience; for comparison, a Cleveland Clinic newsroom release referred to that system's TikTok channel in November 2020.",
+      "evidence": [
+        {
+          "url": "https://intheloop.mayoclinic.org/2024/02/01/here-and-there-mayo-on-tiktok-furry-visitors-grand-opening/",
+          "title": "Here and There: Mayo on TikTok, furry visitors, grand opening",
+          "publisher": "Mayo Clinic In the Loop",
+          "published": "2024-02-01",
+          "accessed": "2026-11-10",
+          "quote": "offers us a valuable avenue to engage with a younger audience."
+        },
+        {
+          "url": "https://newsroom.clevelandclinic.org/2020/11/25/cleveland-clinic-and-tiktok-collaborate-to-support-national-maskup-campaign/",
+          "title": "Cleveland Clinic and TikTok Collaborate to Support National #MaskUp Campaign",
+          "publisher": "Cleveland Clinic Newsroom",
+          "published": "2020-11-25",
+          "accessed": "2026-11-10",
+          "quote": "Cleveland Clinic and TikTok have joined forces to motivate the public to wear facemasks."
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "content",
+      "text": "In June 2024 Mayo Clinic launched \"Tomorrow's Cure\", a weekly podcast on medical innovation produced with PRX and hosted by Cathy Wurzer, with a first season of eight episodes on topics including artificial intelligence and personalized medicine.",
+      "evidence": [
+        {
+          "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-launches-tomorrows-cure-podcast-to-spotlight-medical-innovations-transforming-healthcare",
+          "title": "Mayo Clinic launches 'Tomorrow's Cure' podcast to spotlight medical innovations transforming healthcare",
+          "publisher": "Mayo Clinic News Network",
+          "published": "2024-06-20",
+          "accessed": "2026-11-10",
+          "quote": "in collaboration with PRX, a Pulitzer and Peabody Award-winning public media organization."
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/mayo-clinic-launches-podcast",
+          "title": "Mayo Clinic launches podcast",
+          "publisher": "Becker's Hospital Review",
+          "published": "2024-06-20",
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "content",
+      "text": "In August 2024 Mayo Clinic Press, the organization's trade and consumer publishing division, launched a consumer podcast portfolio: Health Matters, Mayo Clinic On Nutrition, Mayo Clinic Kids and Aging Forward.",
+      "evidence": [
+        {
+          "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-press-launches-new-consumer-health-and-wellness-podcast-portfolio",
+          "title": "Mayo Clinic Press launches new consumer health and wellness podcast portfolio",
+          "publisher": "Mayo Clinic News Network",
+          "published": "2024-08-05",
+          "accessed": "2026-11-10",
+          "quote": "the exclusive trade and consumer publishing division of Mayo Clinic."
+        },
+        {
+          "url": "https://mcpress.mayoclinic.org/",
+          "title": "Mayo Clinic Press",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "one of the leading consumer health reference book publishers nationwide."
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "category": "campaign",
+      "text": "In April 2023 Mayo Clinic launched the \"Transforming Health Care\" brand campaign, three spots titled Imaginable, Predictable and Seeable developed by its internal creative agency, airing nationally through a PGA partnership and in local markets in Minnesota, Arizona and Florida.",
+      "evidence": [
+        {
+          "url": "https://lbbonline.com/news/health-care-will-never-be-the-same-mayo-clinic-breaks-convention-to-usher-in-future-of-innovation",
+          "title": "Health Care Will Never Be the Same: Mayo Clinic Breaks Convention to Usher in Future of Innovation",
+          "publisher": "Little Black Book",
+          "published": "2023-04-18",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/mayo-launches-new-innovation-focused-ad-campaign.html",
+          "title": "Mayo launches new innovation-focused ad campaign",
+          "publisher": "Becker's Hospital Review",
+          "published": "2023-04-17",
+          "accessed": "2026-11-10",
+          "quote": "The ads will air nationally through a partnership with the PGA and local markets in Minnesota, Arizona and Florida."
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "category": "recognition",
+      "text": "Mayo Clinic's July 29, 2025 release said it led the U.S. News & World Report Best Hospitals rankings for 2025-2026 for the 36th time, with a place on the Honor Roll; KTTC reported on Aug. 7, 2026 that it made the Honor Roll for the 37th time.",
+      "evidence": [
+        {
+          "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-top-ranked-in-most-specialties-for-36-straight-years-in-u-s-news-and-world-report-rankings/",
+          "title": "Mayo Clinic top-ranked in most specialties for 36 straight years in U.S. News & World Report rankings",
+          "publisher": "Mayo Clinic News Network",
+          "published": "2025-07-29",
+          "accessed": "2026-11-10",
+          "quote": "and more specialties ranked in the top three than any other hospital in the nation."
+        },
+        {
+          "url": "https://www.kttc.com/2026/08/07/mayo-clinic-continues-rank-high-latest-national-rankings-list/",
+          "title": "Mayo Clinic continues to rank high in latest national rankings list",
+          "publisher": "KTTC",
+          "published": "2026-08-07",
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "category": "channel",
+      "text": "As opened on 2026-11-10, the mayoclinic.org home page is titled \"The world's best hospital - Mayo Clinic\" and its footer links to X, YouTube, Facebook, LinkedIn and Instagram and to the Mayo Clinic app on Google Play and the Apple App Store; TikTok is not among the footer links.",
+      "evidence": [
+        {
+          "url": "https://www.mayoclinic.org/",
+          "title": "The world's best hospital - Mayo Clinic",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Transforming your care"
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "category": "program",
+      "text": "The Mayo Clinic app page promotes appointment requests, secure messaging, Express Care Online in select regions, lab results, and daily health tips, fitness videos and recipes.",
+      "evidence": [
+        {
+          "url": "https://www.mayoclinic.org/apps/mayo-clinic",
+          "title": "Mayo Clinic app - Mayo Clinic",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "makes it easy to request an appointment with world-class experts in top-ranked specialties."
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "category": "content",
+      "text": "Mayo Clinic News Network describes itself as an external, public-facing news site; its navigation includes the Mayo Clinic Minute and Sharing Mayo Clinic series and separate news release sections for Arizona, Minnesota, Florida and International.",
+      "evidence": [
+        {
+          "url": "https://newsnetwork.mayoclinic.org/",
+          "title": "Mayo Clinic News Network | Trusted Health News & Research",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://newsnetwork.mayoclinic.org/about/",
+          "title": "About the Mayo Clinic News Network - Mayo Clinic News Network",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "All content is offered to inform and educate the public,"
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "Mayo Clinic News Network",
+      "url": "https://newsnetwork.mayoclinic.org/",
+      "evidence": [
+        {
+          "url": "https://newsnetwork.mayoclinic.org/",
+          "title": "Mayo Clinic News Network | Trusted Health News & Research",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "Mayo Clinic Connect",
+      "url": "https://connect.mayoclinic.org/",
+      "note": "Patient and caregiver community; last member total found: over 100,000 (stated 2021-01-27).",
+      "evidence": [
+        {
+          "url": "https://connect.mayoclinic.org/",
+          "title": "Mayo Clinic Connect",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Hosted and moderated by Mayo Clinic."
+        },
+        {
+          "url": "https://connect.mayoclinic.org/comment/380187",
+          "title": "100K+ Members helping members improve their health | Mayo Clinic Connect",
+          "publisher": "Mayo Clinic",
+          "published": "2021-01-27",
+          "accessed": "2026-11-10",
+          "quote": "today over 100,000 members share their health journeys, goals and coping strategies"
+        }
+      ]
+    },
+    {
+      "name": "Mayo Clinic Press",
+      "url": "https://mcpress.mayoclinic.org/",
+      "note": "Books and the Mayo Clinic Health Letter.",
+      "evidence": [
+        {
+          "url": "https://mcpress.mayoclinic.org/",
+          "title": "Mayo Clinic Press",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "one of the leading consumer health reference book publishers nationwide."
+        }
+      ]
+    },
+    {
+      "name": "Mayo Clinic app",
+      "url": "https://www.mayoclinic.org/apps/mayo-clinic",
+      "evidence": [
+        {
+          "url": "https://www.mayoclinic.org/apps/mayo-clinic",
+          "title": "Mayo Clinic app - Mayo Clinic",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "makes it easy to request an appointment with world-class experts in top-ranked specialties."
+        }
+      ]
+    },
+    {
+      "name": "Medical Professionals hub",
+      "url": "https://www.mayoclinic.org/medical-professionals",
+      "note": "Clinical updates, continuing education, video center and e-newsletters for clinicians.",
+      "evidence": [
+        {
+          "url": "https://www.mayoclinic.org/medical-professionals",
+          "title": "Medical Professionals - Mayo Clinic",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/user/mayoclinic",
+      "note": "As linked from the mayoclinic.org footer; live count not read. Becker's June 2026 audit of platform counts listed 1.25 million subscribers; Mayo Clinic News Network reported the channel passing 1 million on 2023-12-19.",
+      "evidence": [
+        {
+          "url": "https://www.mayoclinic.org/",
+          "title": "The world's best hospital - Mayo Clinic",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Transforming your care"
+        },
+        {
+          "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-hits-milestone-of-1-million-youtube-subscribers/",
+          "title": "Mayo Clinic hits milestone of 1 million YouTube subscribers",
+          "publisher": "Mayo Clinic News Network",
+          "published": "2023-12-19",
+          "accessed": "2026-11-10",
+          "quote": "Mayo Clinic's YouTube channel recently surpassed 1 million subscribers."
+        },
+        {
+          "url": "https://www.beckershospitalreview.com/digital-marketing/12-most-followed-health-systems-on-social-media/",
+          "title": "12 most-followed health systems on social media",
+          "publisher": "Becker's Hospital Review",
+          "published": "2026-06-04",
+          "accessed": "2026-11-10",
+          "quote": "Mayo Clinic: 1.25 million subscribers"
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/mayoclinic",
+      "note": "As linked from the mayoclinic.org footer.",
+      "evidence": [
+        {
+          "url": "https://www.mayoclinic.org/",
+          "title": "The world's best hospital - Mayo Clinic",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Transforming your care"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/MayoClinic",
+      "note": "As linked from the mayoclinic.org footer.",
+      "evidence": [
+        {
+          "url": "https://www.mayoclinic.org/",
+          "title": "The world's best hospital - Mayo Clinic",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Transforming your care"
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/mayo-clinic",
+      "note": "As linked from the mayoclinic.org footer.",
+      "evidence": [
+        {
+          "url": "https://www.mayoclinic.org/",
+          "title": "The world's best hospital - Mayo Clinic",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Transforming your care"
+        }
+      ]
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/mayoclinic/",
+      "note": "As linked from the mayoclinic.org footer.",
+      "evidence": [
+        {
+          "url": "https://www.mayoclinic.org/",
+          "title": "The world's best hospital - Mayo Clinic",
+          "publisher": "Mayo Clinic",
+          "published": null,
+          "accessed": "2026-11-10",
+          "quote": "Transforming your care"
+        }
+      ]
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@mayoclinic",
+      "note": "Handle as linked from Mayo Clinic's In the Loop article (2024-02-01); the TikTok page itself was not opened, so no follower count is recorded.",
+      "evidence": [
+        {
+          "url": "https://intheloop.mayoclinic.org/2024/02/01/here-and-there-mayo-on-tiktok-furry-visitors-grand-opening/",
+          "title": "Here and There: Mayo on TikTok, furry visitors, grand opening",
+          "publisher": "Mayo Clinic In the Loop",
+          "published": "2024-02-01",
+          "accessed": "2026-11-10",
+          "quote": "offers us a valuable avenue to engage with a younger audience."
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "It owns a moderated patient community with a long history, which gives it a peer-support asset that is not rented from a social platform.",
+        "basedOn": [
+          "f1"
+        ]
+      },
+      {
+        "text": "It has built an audio and publishing line beyond the newsroom: an innovation podcast made with a public-media partner and a consumer podcast portfolio under Mayo Clinic Press.",
+        "basedOn": [
+          "f4",
+          "f5"
+        ]
+      },
+      {
+        "text": "Its YouTube channel reached the 1 million subscriber mark in 2023, a scale it announced itself.",
+        "basedOn": [
+          "f2"
+        ]
+      },
+      {
+        "text": "Brand advertising is developed in-house and bought nationally plus in local markets in Minnesota, Arizona and Florida, and it publicizes its U.S. News standing through its own newsroom.",
+        "basedOn": [
+          "f6",
+          "f7"
+        ]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "TikTok is not among the \"Follow Mayo Clinic\" links in the mayoclinic.org footer as opened on 2026-11-10, although the organization has posted there since January 2024.",
+        "basedOn": [
+          "f3",
+          "f8"
+        ]
+      },
+      {
+        "text": "By its own account Mayo Clinic started posting on TikTok in January 2024, more than three years after Cleveland Clinic's newsroom was already referring to its TikTok channel.",
+        "basedOn": [
+          "f3"
+        ]
+      }
+    ],
+    "opportunitiesForUpmc": [
+      {
+        "text": "A hosted, moderated condition community is a differentiator few systems have; UPMC could test one around a small number of service lines before committing to a full platform.",
+        "basedOn": [
+          "f1"
+        ]
+      },
+      {
+        "text": "Mayo Clinic separates an innovation show for a general audience from practical wellness shows; UPMC could decide which of those two audiences a podcast is for before producing one.",
+        "basedOn": [
+          "f4",
+          "f5"
+        ]
+      },
+      {
+        "text": "Mayo Clinic's app bundles daily health content with appointments and results; UPMC could review whether its own patient app gives people a reason to open it between visits.",
+        "basedOn": [
+          "f9"
+        ]
+      }
+    ]
+  }
+}

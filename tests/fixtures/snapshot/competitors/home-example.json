@@ -1,0 +1,129 @@
+{
+  "id": "home-example",
+  "name": "Home Example System (fictional)",
+  "asOf": "2026-01-20",
+  "positioning": {
+    "text": "Home Example System (fictional) is the invented system from whose point of view the fixture analysis is written.",
+    "evidence": [
+      {
+        "url": "https://example.com/fixture/home-example/about",
+        "title": "About Home Example System (fictional page)",
+        "publisher": "Example Publisher (fictional)",
+        "published": "2026-01-15",
+        "accessed": "2026-01-20"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "category": "content",
+      "text": "Fixture fact: it publishes an invented health library.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/home-example/library",
+          "title": "Health library (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "category": "channel",
+      "text": "Fixture fact: it lists an invented patient app on its website.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/home-example/app",
+          "title": "Patient app page (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "category": "campaign",
+      "text": "Fixture fact: it ran an invented brand campaign in 2025.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/home-example/campaign",
+          "title": "Brand campaign page (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2025",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "category": "program",
+      "text": "Fixture fact: it offers invented video visits.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/home-example/video-visits",
+          "title": "Video visits page (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "category": "metric",
+      "text": "Fixture fact: its invented newsroom states 12 press releases in January 2026.",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/home-example/newsroom",
+          "title": "Newsroom (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "Newsroom",
+      "url": "https://example.com/fixture/home-example/newsroom",
+      "evidence": [
+        {
+          "url": "https://example.com/fixture/home-example/newsroom",
+          "title": "Newsroom (fictional page)",
+          "publisher": "Example Publisher (fictional)",
+          "published": "2026-01-15",
+          "accessed": "2026-01-20"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "strengths": [
+      {
+        "text": "Fixture analysis: a health library and an app give it owned channels.",
+        "basedOn": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "text": "Fixture analysis: video visits are promoted on their own page.",
+        "basedOn": [
+          "f4"
+        ]
+      }
+    ],
+    "gaps": [
+      {
+        "text": "Fixture analysis: no invented podcast was found on its pages.",
+        "basedOn": [
+          "f1"
+        ]
+      }
+    ]
+  }
+}

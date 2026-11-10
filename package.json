@@ -1,0 +1,55 @@
+{
+  "name": "health-system-marketing-intel",
+  "private": true,
+  "version": "0.2.0",
+  "description": "Independent student project: how nine US health systems market themselves online, with every fact linked to a public source.",
+  "license": "MIT",
+  "author": "Tianyi Jia",
+  "type": "module",
+  "engines": {
+    "node": "^22.22.2 || ^24.15.0 || >=26.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "dev:fixture": "vite --mode fixture",
+    "build": "vite build",
+    "build:fixture": "vite build --mode fixture",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "e2e": "playwright test",
+    "validate:data": "node scripts/import-research.mjs src/data/snapshot --check",
+    "import:research": "node scripts/import-research.mjs",
+    "audit:totals": "node scripts/audit-totals.mjs",
+    "demo:video": "node scripts/make-demo-video.mjs"
+  },
+  "dependencies": {
+    "@fontsource/chakra-petch": "^5.3.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "lucide-react": "^0.563.0",
+    "motion": "^12.29.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@playwright/test": "^1.63.0",
+    "@tailwindcss/vite": "^4.1.18",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.3",
+    "@testing-library/user-event": "^14.6.9",
+    "@types/react": "^19.2.5",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "jsdom": "^31.0.0",
+    "tailwindcss": "^4.1.18",
+    "vite": "^7.2.4",
+    "vitest": "^5.1.0"
+  }
+}
